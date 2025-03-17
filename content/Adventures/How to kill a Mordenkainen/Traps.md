@@ -1,0 +1,5 @@
+1. There's a statue of a little duckling, walking by it will cause it to rotate and "fire" off, turning the first seen into a duckling, then releasing illusions of 2d20 ducklings into the ground around him. The illusion lasts 1d6 hours and it's near impossible to know which one is your party member.
+2. Wait, what's this? We can disable 1 trap, but doing that will activate the next trap? So if we deactivate the fire rune, that will activate the ice rune, which will activate the poison rune, which will activate the fire rune?  All traps deal 3d6 damage. (Hint: Deactivating the poison rune will will have the fire/ice runes cancel out)
+3. Chamber where gravity reverses and players fall into a Prismatic wall.
+4. Imprisonment of one member.
+5. Disadvantage on con save and Sunburst + some dmg trap.

@@ -1,0 +1,3 @@
+Invulnerability
+Time ravage
+Weird
