@@ -1,14 +1,21 @@
+---
+title: 
+draft: false
+description:
+
+---
 - **Creature Type** Humanoid
 - **Size** Medium
 - **Speed** 30 feet
 - **Alignment** Various, mostly neutral
 - **Age** Aging significantly longer than humans, usually hundreds of years.
-- **Society and culture** Cities in desert and arid climates. Prioritizing discovery and progress at any cost. Gifted in 
+- **Society and culture** Cities in desert and arid climates. Prioritizing discovery and progress at any cost. Gifted in arcane arts.
 - **Racial Features**:
 	- **1+1 ASI**
-- **Questline** 
+	- **Arcane study** You gain advantage on Intelligence (Arcana) checks.
+	- 
 > [!info]- Homeland
 > The Capital
 
 > [!info]- Origins
-> The Crimson Sovereign placed a curse on his concubines for betraying him, giving them an appearance of hares, denouncing their insolence and lustful nature.
+> 

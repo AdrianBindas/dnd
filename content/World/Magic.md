@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+description:
+---
 - magic resides in a place called Labyrinth
 	- Labyrinth is a 'default' state of being, the original state of matter
 	- Labyrinth is infinite and split into different branches, each concerning different fields

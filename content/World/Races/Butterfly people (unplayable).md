@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+description:
+---
 - **Creature Type** Humanoid
 - **Size** Medium
 - **Alignment** Observers, usually do not meddle in any affairs.

@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+description:
+---
 ### Region 1
 ![[Region 1 Detailed.png]]
 ### Region 2

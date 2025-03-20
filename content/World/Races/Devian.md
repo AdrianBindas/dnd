@@ -1,3 +1,9 @@
+---
+title: 
+draft: false
+description:
+
+---
 - **Creature Type** Humanoid
 - **Size** Medium
 - **Speed** 35 feet
@@ -7,7 +13,7 @@
 	- **1+1 ASI**
 	- **Bunny Feet** When an enemy misses you with an attack, you can use your reaction to move 5 feet without provoking opportunity attacks.
 	- **Danger Sense** Gains proficiency in the Perception skill. Gains advantage on Perception and Investigation checks based on hearing.
-	- **Inhuman Agility** Advantage on Acrobatics checks.
+	- **Inhuman Agility** You gain advantage on Acrobatics checks.
 - **Society and culture** Isolated villages, wandering individuals.
 - **Questline** 
 > [!info]- Homeland

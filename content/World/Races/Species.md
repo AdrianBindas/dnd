@@ -1,27 +1,32 @@
-Humans*
+---
+title: 
+draft: true
+description:
+---
+[[Human]] (15)
 [[Elf]] (12)
-[[Dwarf]] (17)
-Orcs*
-Goblins*
+[[Dwarf]] (14)
+[[Orcs]] (14)
+[[Goblin]] (11)
 [[Halfling]] (10)
 [[Changeling]] (16)
-[[Gnome]] (10)
 [[Devian]] (11)
-Goliaths
 [[Tabaxi]] (14)
+[[Kenku]] (13)
+[[Automaton]] (16)
+[[Frogs]] (12)
+[[Leonin]] (12)
+[[Gnome]] 
+[[Oni]]
+[[Oni (Corrupted)]]
+[[Fish people (unplayable)]]
+[[Butterfly people (unplayable)]]
 Hadozee (Bats)
-Kenku*
-Undead
 Tiefling* (something with horns or antlers)
 Loxodon
-Automaton*
 Liquid ppl in mechanical suit
-[[Butterfly people (unplayable)]]
-[[Fish people (unplayable)]]
-Frog people*
-[[Oni]]
-Leonin*
-[[Oni (Corrupted)]]
+Undead
+Goliaths
 
 Rated by https://docs.google.com/spreadsheets/d/1vq1kz6PRAbw5LHy6amH-bNb4OuB8DBXL1RsZROt03Sc/edit?gid=0#gid=0
 

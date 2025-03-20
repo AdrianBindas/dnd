@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+description:
+---
 Heroes wake up during an ancient eldritch ritual.
 *Some kind of pressure on heroes is applied.*
 The cultists have ties to the powerful realm.
