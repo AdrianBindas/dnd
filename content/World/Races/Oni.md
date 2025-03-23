@@ -12,7 +12,7 @@ description:
 - **Society and culture** Cities in desert and arid climates. Prioritizing discovery and progress at any cost. Gifted in arcane arts.
 - **Racial Features**:
 	- **1+1 ASI**
-	- **Arcane study** You gain advantage on Intelligence (Arcana) checks.
+	- **Arcane Study** You gain advantage on Intelligence (Arcana) checks.
 	- 
 > [!info]- Homeland
 > The Capital

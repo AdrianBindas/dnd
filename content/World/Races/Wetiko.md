@@ -9,7 +9,7 @@ description:
 - **Alignment** 
 - **Age** 
 - **Racial Features**:
-	- **1+1 ASI
+	- **1+1 ASI**
 	- **Deathless Nature**: You have escaped death, a fact represented by the following benefits:
 	    - You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
 	    - You have advantage on death saving throws.
