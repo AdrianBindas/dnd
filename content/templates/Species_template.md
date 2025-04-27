@@ -6,13 +6,10 @@ description:
 - **Creature Type** Humanoid
 - **Size** Medium
 - **Speed** 30 feet
-- **Alignment** 
-- **Age** 
-- **Racial Features**:
-	- **1+1 ASI**
+- **Alignment**
+- **Age**
 - **Society and culture**
-> [!info]- Homeland
-> 
-
-> [!info]- Origins
-> 
+- **Language**
+- **Religion**
+- **Racial Features**
+	- **1+1 ASI**

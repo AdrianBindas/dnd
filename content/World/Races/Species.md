@@ -3,24 +3,24 @@ title:
 draft: false
 description:
 ---
-[[Human]] (15)
-[[Elf]] (12)
-[[Dwarf]] (14)
+[[Koshchei]] (15)
 [[Orcs]] (14)
+[[Human]] (15)
 [[Goblin]] (11)
-[[Halfling]] (12)
-[[Changeling]] (16)
+[[Veilkin]] (16)
 [[Devian]] (11)
 [[Tabaxi]] (14)
 [[Kenku]] (13)
 [[Automaton]] (16)
 [[Frogs]] (12)
 [[Leonin]] (12)
-[[Gnome]] (10) !
 [[Oni]] 
-[[Oni (Corrupted)]]
-[[Koshchei]] (15)
 [[Wetiko]]
+[[Oni (Corrupted)]]
+[[Halflings]] (12) - done
+[[Gnomes]] (15) - done
+[[Dwarves]] (14) - done
+[[Elf]] (12) - done
 [[Fish people (unplayable)]]
 [[Butterfly people (unplayable)]]
 Hadozee (Bats)

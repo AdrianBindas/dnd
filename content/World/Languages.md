@@ -1,0 +1,9 @@
+- Common
+- Protoelven
+	- Halfling lang
+	- Elven
+- Deepspeech
+	- Dwarven
+	- Gnomish
+- Archaic oni lang
+	- Oni lang

@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+description:
+---
 It is the duty of the strong, to protect the weak and innocent, for the monsters in the dark never sleep and never rest. They temp and corrupt, they kill and burn, they pillage and rape.
 In the life of every man comes a night, when he stands face to face against such terrors for the first time.
 For all the things that happened during my youth, I blame the town Ardino, where I spent my early years. I blame the monsters in the depths of the town, the monsters masquerading in the skins of men as wolf in sheep clothing. I fail to remember my father, for I was too young, when he died. Many times I wonder what befell him, my mother refused to tell me. After he died, my mother was struggling financially, she started gambling and begging on the streets of old Ardino. Truth be told, she was struggling as a mother as well. Beatings, scoldings and punishments were frequent on daily basis. Though I never blamed her. Did not take long for her to fall victim to many forces, or rather entities, plaguing the town and she got indebted to people from a cult. Until this day I do not know which eldritch or antediluvian evil they served, but the whole town was permeating the nauseous, putrid atmosphere originating in that decrepit church.

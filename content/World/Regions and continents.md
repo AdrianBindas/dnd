@@ -12,7 +12,7 @@ description:
 ### Region 4
 ![[Region 4 Detailed.png]]
 #### Continent 1 (east)
-working names: Oryndor, Orynthia
+working names: ~~Oryndor~~, Orynthia
 #### Continent 2 (west)
 working names: Vesper
 

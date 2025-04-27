@@ -1,13 +1,13 @@
 ---
 title: 
-draft: false
+draft: true
 description:
 ---
 - **Creature Type** Living construct
 - **Size** Medium
 - **Speed** 30 feet
-- **Alignment** 
-- **Age** 
+- **Alignment** Lawful
+- **Age** Indefinite
 - **Racial Features**:
 	- **1+1 ASI**
 	- **Constructed Resilience.** You were created to have remarkable fortitude, represented by the following benefits:
@@ -21,9 +21,8 @@ description:
 	    - You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you must remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
 	    - While you live, your armor can't be removed from your body against your will.
 	- **Specialized Design.** You gain one skill proficiency and one tool proficiency of your choice.
-- **Society and culture**
-> [!info]- Homeland
-> The Capital
-
-> [!info]- Origins
-> The Crimson Sovereign placed a curse on his concubines for betraying him, giving them an appearance of hares, denouncing their insolence and lustful nature.
+- **Society and culture** 
+- **Physiology** 
+- **Religion** 
+- **Language** 
+- **Ancestry questline** 
