@@ -17,5 +17,5 @@ description:
 - **Society and culture** Dwarven society is built on deep-rooted traditions of craftsmanship, honor, and duty. Every dwarf, regardless of their station, is expected to uphold their clan's legacy, often through mastery of a craft, whether it be stoneworking, metal forging, or martial discipline. Communities are organized into tight-knit clans with strict hierarchies. Leadership is often hereditary, though great deeds in battle or craft can elevate one’s status. However, failures can result in exile or enslavement. Dwarves are wary of arcane magic. While they accept its existence, they generally view it with distrust.
 - **Physiology** Stout and muscular humanoids, built for endurance over speed. Their bodies and senses are attuned to stone and earth, where they live most of their lives.
 - **Religion** Shrines and monuments to great forebears are common in dwarven strongholds, and it is believed that the spirits of these ancestors guide and protect their descendants. 
-- **Language** Dwarven, harsh and guttural tongue, written in runes. Common, with dialects often specific to the clan or region.
+- **Language** Dwarven, harsh and guttural tongue, written in runes. Orynthian, with dialects often specific to the clan or region.
 - **Relevant questlines.** [[Questlines#Calling of the Deep]], [[Questlines#Orbis Imperialis]]

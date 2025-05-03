@@ -1,9 +1,10 @@
-- Common
-- Protoelven
+- Orynthian
+- Protosylvian
 	- Halfling lang
-	- Elven
+	- Sylvian
 - Deepspeech
 	- Dwarven
 	- Gnomish
 - Archaic oni lang
 	- Oni lang
+- Orcish language

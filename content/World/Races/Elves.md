@@ -1,8 +1,7 @@
 ---
-title: 
+title: Elves
 draft: false
 description:
-
 ---
 - **Creature Type** Humanoid
 - **Size** Medium
@@ -22,5 +21,5 @@ description:
 - **Religion** The spiritual beliefs of elven race include large amount of rituals and practices, many times varied by individual.
   Elves pay reverence to various forest spirits and souls that inhabit the Orynthia. Above such magic phenomena, elves revere ancestors and heroes of elven race, who became immortal to watch over their children.
   Elves also possess a pantheon of demigods and gods, some of who originate in times before the race of men. Many elven gods are shrouded in mystery even between the members of the elven race.
-- **Language** Elven, melodic and song-like ancient language with its own script. Common, with dialects often specific to the region.
+- **Language** Sylvian, melodic and song-like ancient language with its own script. Orynthian, with dialects often specific to the region.
 - **Relevant Questlines.** [[Questlines#The Broken Heart]], [[Questlines#Orbis Imperialis]]

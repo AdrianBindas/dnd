@@ -17,5 +17,5 @@ description:
 - **Society and culture** Halflings are known for their cheerful, adventurous spirit and strong sense of community. Their society thrives on mutual support, with individuals often serving as guides, trackers, and bearers of good fortune on perilous journeys. Their natural affinity for nature makes them invaluable in many expeditions. 
 - **Physiology** Halflings possess lithe, agile bodies built for stealth and quick movement. Their small stature enables them to navigate dense foliage and tight spaces with ease. 
 - **Religion** Halflings traditionally hold beliefs of a higher force residing in fauna and flora of the wilds, with their religious practices centered around nature-related mystical forces, spirits and rituals. Many times their everyday lives become integrated with a deep respect for the cycles and mysteries of the natural world.
-- **Language** Halfling language originates in ancient Elvish, halflings are many times able to understand and communicate modern Elvish. Common, with dialects often specific to the region.
+- **Language** Halfling language originates in an ancient Sylvian, halflings are many times able to understand and communicate modern Sylvian used by Elves. Orynthian, with dialects often specific to the region.
 - **Relevant Questlines.** [[Questlines#The Broken Heart]], [[Questlines#Orbis Imperialis]]

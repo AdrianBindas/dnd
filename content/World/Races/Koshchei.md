@@ -1,13 +1,13 @@
 ---
-title: 
+title: Koshchei
 draft: false
 description:
 ---
 - **Creature Type** Humanoid
 - **Size** Medium
 - **Speed** 30 feet
-- **Alignment** 
-- **Age** 
+- **Alignment** Neutral
+- **Age** Long living, essentially immortal.
 - **Racial Features**:
 	- **1+1 ASI**
 	- **Deathless Nature**: You have escaped death, a fact represented by the following benefits:
@@ -15,12 +15,14 @@ description:
 	    - You have advantage on death saving throws.
 	    - You don’t need to eat, drink, or breathe.
 	    - You don’t need to sleep, and magic can’t put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
-	- **Unnatural Appendages**: You have two special appendages growing alongside with your arms. You can use them to hold items, roughly manipulate your surroundings but these appendages are not dexterous enough to use weapons, magic weapons, and other specialized equipment.
-		- As an action, you can use one of them to grapple a creature.
-		- Each one is also a natural weapon, which you can use to make an unarmed strike with. If you hit, they do 1d6 + your strength modifier bludgeon damage. Immediately after hitting, you can try to grapple the target as a bonus action.
-- **Society and culture**
-> [!info]- Homeland
-> 
-
-> [!info]- Origins
-> 
+	- **Eerie Token**. As a bonus action, you can harmlessly remove a lock of your hair, one of your nails, or one of your teeth. This token is imbued with magic until you finish a long rest. While the token is imbued in this way, you can take these actions:
+		- *Telepathic Message*. As an action, you can send a telepathic message to the creature holding or carrying the token, as long as you are within 10 miles of it. The message can contain up to twenty-five words.
+	    - *Remote Viewing*. If you are within 10 miles of the token, you can enter a trance as an action. The trance lasts for 1 minute, but it ends early if you dismiss it (no action required) or are incapacitated. During this trance, you can see and hear from the token as if you were located where it is. While you are using your senses at the token's location, you are blinded and deafened in regard to your own surroundings. When the trance ends, the token is harmlessly destroyed.
+	    - Once you create a token using this feature, you can't do so again until you finish a long rest, at which point your missing part regrows.
+	- **Long-Limbed.** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+	- **Ancient.** Not only you have heard of things long past, you have lived through them. You gain proficiency in Intelligence (History) checks.
+- **Society and culture** The ancient Koshchei establish small communities in remote or hidden locations. Many individuals decide to travel alone, becoming scholars, hermits or adventurers seeking knowledge. Koshchei many times lack understanding for common laws or rules, rather following their own set of rules akin to a moral compass or codex. The long living, undead nature causes them to take into account long term impact of their actions and adopt the "end justifies the means" reasoning.
+- **Physiology** Koshchei appear as unnaturally tall, slender humanoids with bald monstrous heads and black skin that reveals outlines of internal organs or veins, many times in dark purple or green colors. Their bodies exist in a state between life and death - while seemingly alive, they do not age nor wither away. Many information about their physiology, origins or language are unknown.
+- **Religion** Koshchei revere the Great Old One, an ancient being to whom they build small shrines or sanctums.
+- **Language** Koshchei language is especially ancient and difficult for any foreigners to understand. Many Koshchei are multilingual by necessity, having lived through the rise and fall of multiple languages. They often speak archaic versions of modern tongues, occasionally using expressions or references that have fallen out of common usage.
+- **Relevant questlines** [[Questlines#Leviathan Rises]]
