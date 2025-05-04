@@ -1,5 +1,5 @@
 ---
-title: Leonins
+title: Felidars
 draft: false
 description:
 ---
@@ -15,7 +15,7 @@ description:
 	- **Aggressive**: As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
 	- **Natural Hunter**: You have extraordinary ability to track and follow your prey. As a result, you have advantage on any Wisdom (Perception) or Wisdom (Survival) checks for the purpose of tracking, following or detecting a creature. 
 - **Society and culture** Highly individualistic and territorial. Distrust of rules or laws. Most of their lives spent hunting. Those able to adapt to common society become prestigious but chaotic adventurers and headhunters. 
-- **Physiology** Leonins stand taller than humans on average, with powerful, muscular builds covered in short fur ranging from golden tan to brown, black or even spotted or striped.
+- **Physiology** Felidars stand taller than humans on average, with powerful, muscular builds covered in short fur ranging from golden tan to brown, black or even spotted or striped.
 - **Religion** Reverence for natural forces which are many times understood as whims or punishments of various gods or spirits.
-- **Language** The Leonin language incorporates rumbling growls, purrs, and roars alongside spoken words. Some Leonins speak Oni or Orynthian language but many concepts important to Leonins lack direct translations.
+- **Language** The Felidar language incorporates rumbling growls, purrs, and roars alongside spoken words. Some Felidars speak Oni or Orynthian language but many concepts important to Felidars lack direct translations.
 - **Relevant questline** [[Questlines#The Broken Heart]], [[Questlines#Project Ichnoss]]

@@ -3,15 +3,15 @@ title: Overview of species
 draft: true
 description:
 ---
-[[Goblins]] (13)
-[[Devians]] (14)
-[[Tabaxi]] (14)
-[[Krell]] (15)
-[[Oni]] (13)
-[[Koshchei]] (15) - done
+[[Devians]] (14) - done
+[[Goblins]] (13) - done
+[[Elnari]] (13) - done
+[[Tabaxi]] (14) - done
+[[Krell]] (15) - done
+[[Tharrs]] (15) - done
 [[Automatons]] (16) - done
 [[Humans]] (15) - done
-[[Leonins]] (14) - done
+[[Felidars]] (14) - done
 [[Veilkin]] (16) - finish gods
 [[Orcs]] (14) - mostly done, need gods
 [[Kenkus]] (13) - done, add god names

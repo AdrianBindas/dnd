@@ -2,9 +2,10 @@
 - Protosylvian
 	- Halfling lang
 	- Sylvian
-- Deepspeech
+- Deepspeech (Kur-Daram)
 	- Dwarven
 	- Gnomish
+	- Goblinish
 - Archaic oni lang
 	- Oni lang
 - Orcish language
