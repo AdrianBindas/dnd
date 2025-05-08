@@ -4,6 +4,7 @@ draft: true
 description:
 ---
 - Veilkin - Muckbloods (der.), Kaelen
+- Elnari -> Aldari?
 - scrapped blood incantation:
   		- **Hemorrhage**
 			- As an action you choose a target within 60 ft. you can see. The target must make a Constitution saving throw (DC: 8+prof+Int). If the target fails the saving throw, its blood becomes magically easy to spill. For the duration of 1 minute the target has disadvantage on constitution checks, its speed is halved and whenever the target takes damage, that damage is increased by 1d4.

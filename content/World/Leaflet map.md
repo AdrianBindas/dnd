@@ -1,3 +1,8 @@
+---
+title: Map
+draft: true
+description:
+---
 ```leaflet
 id: leaflet-map
 image: [[wd.webp]]

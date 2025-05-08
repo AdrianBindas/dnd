@@ -8,9 +8,9 @@ description:
 - **Speed** 30 feet
 - **Alignment** Neutral
 - **Age** Long living, essentially immortal.
-- **Racial Features**:
-	- **1+1 ASI**
-	- **Deathless Nature**: You have escaped death, a fact represented by the following benefits:
+- **Racial Features**
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **Deathless Nature.** You have escaped death, a fact represented by the following benefits:
 	    - You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
 	    - You have advantage on death saving throws.
 	    - You don’t need to eat, drink, or breathe.
@@ -21,8 +21,8 @@ description:
 	    - Once you create a token using this feature, you can't do so again until you finish a long rest, at which point your missing part regrows.
 	- **Long-Limbed.** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
 	- **Ancient.** Not only you have heard of things long past, you have lived through them. You gain proficiency in Intelligence (History) checks.
-- **Society and culture** The ancient Tharrs establish small communities in remote or hidden locations. Many individuals decide to travel alone, becoming scholars, hermits or adventurers seeking knowledge. Tharrs many times lack understanding for common laws or rules, rather following their own set of rules akin to a moral compass or codex. The long living, undead nature causes them to take into account long term impact of their actions and adopt the "end justifies the means" reasoning.
+- **Society and culture** The ancient tharrs establish small communities in remote or hidden locations. Many individuals decide to travel alone, becoming scholars, hermits or adventurers seeking knowledge. Tharrs many times lack understanding for common laws or rules, rather following their own set of rules akin to a moral compass or codex. The long living, undead nature causes them to take into account long term impact of their actions and adopt the "end justifies the means" reasoning.
 - **Physiology** Tharrs appear as unnaturally tall, slender humanoids with bald monstrous heads and black skin that reveals outlines of internal organs or veins, many times in dark purple or green colors. Their bodies exist in a state between life and death - while seemingly alive, they do not age nor wither away. Many information about their physiology, origins or language are unknown.
-- **Religion** Tharrs revere the Great Old One, an ancient being to whom they build small shrines or sanctums.
-- **Language** Tharr language is especially ancient and difficult for any foreigners to understand. Many Tharrs are multilingual by necessity, having lived through the rise and fall of multiple languages. They often speak archaic versions of modern tongues, occasionally using expressions or references that have fallen out of common usage.
+- **Religion** Tharrs revere [[Gods and religion#**The Great Old One**|The Great Old One]], an ancient being to whom they build small shrines or sanctums.
+- **Language** Tharr language is especially ancient and difficult for any foreigners to understand. Many tharrs are multilingual by necessity, having lived through the rise and fall of multiple languages. They often speak archaic versions of modern tongues, occasionally using expressions or references that have fallen out of common usage.
 - **Relevant questlines** [[Questlines#Leviathan Rises]]

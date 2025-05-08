@@ -14,7 +14,7 @@ description:
 [[Felidars]] (14) - done
 [[Veilkin]] (16) - finish gods
 [[Orcs]] (14) - mostly done, need gods
-[[Kenkus]] (13) - done, add god names
+[[Kenku]] (13) - done, add god names
 [[Halflings]] (12) - done
 [[Gnomes]] (15) - done
 [[Dwarves]] (14) - done

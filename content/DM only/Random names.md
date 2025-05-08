@@ -4,7 +4,7 @@ draft: true
 description: "sources: https://basicroleplaying.net/conlang/index.php, https://dicelog.com/yafnag"
 ---
 ##### All
-Lagon
+Lagon Empire
 ##### Places
 Varkuun
 Cidralith
@@ -13,6 +13,7 @@ Ish'karuun
 The Obsidian Sanctum
 Molgrath Fen
 The Weeping Crucible
+Palam Empire
 ##### NPCs
 Brena
 Tulus
@@ -22,13 +23,24 @@ Melvarach
 D'Armenty
 Erythach
 Morgonai
+~~Jenkaal~~
+~~Xaloc~~
 Caladin
-Jenkaal
-Xaloc
+Raphael
+Zuriel
+Azrael
 ##### Gods
-Morgonai
-Xaloc
-Nahl
+~~Morgonai~~
+~~Xaloc~~
+~~Nahl~~
+~~Uriel~~
+~~Thagruk~~
+~~Girthak~~
+~~Invorak~~
+~~Koreon~~
+~~Melevor~~
+~~Gorr~~
+~~Abaddon~~
 ##### Items
 Shard of the Drowned Star
 The Grief of Ten Thousand Mouths
