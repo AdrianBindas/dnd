@@ -38,4 +38,4 @@ A hegemon feasts on the east. The Lagon Empire is devouring one nation after the
 In order to ensure the attack is brutal and decisive, we need a weapon. While the military is gearing up on war, our scientists are working on a new project. The details are known only to a handful of chosen individuals and it must stay this way.
 To support development of such project, proficient mercenaries, scientists and artisans are to be contracted and assigned with tasks vital for the success of the project. Information is to be distributed on a need to know basis and the contracted subjects will be notably rewarded. If any of the subjects refuse to cooperate, application of more persuasive measures is allowed at yours own discretion.
 We shall make the giant kneel.
-Relevant species: [[Elnari]], [[Felidars]]
+Relevant species: [[Ish'karri]], [[Felidars]]

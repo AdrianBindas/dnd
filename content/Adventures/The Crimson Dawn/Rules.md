@@ -1,3 +1,8 @@
+---
+title: 
+draft: true
+description:
+---
 1. new exhaustion rules
 2. ritual casting for everyone
 3. 1st level free feat (any but cant give ability score

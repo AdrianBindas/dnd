@@ -5,7 +5,7 @@ description:
 ---
 [[Devians]] (14) - done
 [[Goblins]] (13) - done
-[[Elnari]] (13) - done
+[[Ish'karri]] (13) - done
 [[Tabaxi]] (14) - done
 [[Krell]] (15) - done
 [[Tharrs]] (15) - done
