@@ -9,7 +9,7 @@ description:
 - **Alignment** Lawful
 - **Age** Maturing around age 10, living up to 50-60 years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Mimicry**: You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom (Insight) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
 	- **Carrion Sense**: Kenku have a natural ability to sniff out carrion. While their sense of smell isn’t as keen as that of other species, it is particularly attuned to the scent of injuries or death. This gives them ability to detect presence and approximate location of a corpse or badly wounded creatures (50% or fewer hit points) that is located up to 1km away.
 	- **Avian Origins**: Your feathery upper appendages allow you to fly over short distances. You can have a flying speed equal to your walking speed but at the end of your turn you have to land.

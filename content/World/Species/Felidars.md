@@ -9,7 +9,7 @@ description:
 - **Alignment** Chaotic
 - **Age** Maturing sooner than humans, around age 10. Lifespan around 100 years or even more.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Darkvision.** You have a cat's keen senses, especially in the dark. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 	- **Powerful Build.** You count as a large sized creature for determining your carrying capacity. You gain +1 to all checks related to pushing, dragging, or lifting of objects. You have advantage when attempting to grapple or pin down another creature.
 	- **Aggressive.** As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.

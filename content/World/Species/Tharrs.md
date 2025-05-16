@@ -9,7 +9,7 @@ description:
 - **Alignment** Neutral
 - **Age** Long living, essentially immortal.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Deathless Nature.** You have escaped death, a fact represented by the following benefits:
 	    - You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
 	    - You have advantage on death saving throws.

@@ -9,7 +9,7 @@ description:
 - **Alignment** Neutral
 - **Age** Aging significantly longer than humans, living up to a thousand years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 	- **Sorcerer Magic.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this race).
 	- **Keen Senses.** You have proficiency in the Perception skill.

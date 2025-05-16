@@ -5,6 +5,14 @@ description: "sources: https://basicroleplaying.net/conlang/index.php, https://d
 ---
 ##### All
 Lagon Empire
+Ekhopia Dynasty
+Ashitish Kingdom
+Stakar Empire
+Midia Dynasty
+Othazar Empire
+Yeawyth Empire
+Mevaria Empire
+Prowen Empire
 ##### Places
 Varkuun
 Cidralith
@@ -14,6 +22,50 @@ The Obsidian Sanctum
 Molgrath Fen
 The Weeping Crucible
 Palam Empire
+Emberdenn
+Absolution
+Arcadis/Arcadia
+Aventure
+Éternité
+Argent
+Deireadh
+Cinderhold
+Zaekkyria
+Wyr
+Savena
+Kharrak
+Rawiya
+Rallya
+Thyrria
+Wraecrad
+Eawea
+Ishirod
+Vocras
+Vexus
+Nyvarra
+Elandor
+Arkhaven
+Oryndor
+Myrethil
+Virethorn
+Korvain
+Arcanis
+Zirith
+Solranth
+Solmira
+Lythanis
+Thalindor
+Dravox
+Nyxar
+Vexar
+Corax
+Korvas
+Zorvath
+Kyral
+Royaar
+Irrenys Arrkoth
+Yzador Arrkoth
+Iskandria
 ##### NPCs
 Brena
 Tulus
@@ -29,6 +81,12 @@ Caladin
 Raphael
 Zuriel
 Azrael
+Saul
+Rotrig
+Y'dran
+Tycho
+Iskarion
+
 ##### Gods
 ~~Morgonai~~
 ~~Xaloc~~
@@ -47,3 +105,7 @@ The Grief of Ten Thousand Mouths
 The Bone Psalm
 ##### Other
 The Ninefold Silence
+The Paralyzed Dominion
+The Burning Throne
+The Obsidian Throne
+Exalted/Glorious Horror

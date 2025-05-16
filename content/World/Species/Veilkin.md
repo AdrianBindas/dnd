@@ -9,7 +9,7 @@ description:
 - **Alignment** Typically chaotic. Veilkin value personal freedom, adaptability, and spontaneity above all else.
 - **Age** Up to a hundred years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Changeling Instincts.** Thanks to your shifting essence, you gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
 	- **Change Appearance.** As an action, you can transform your appearance or revert to your natural form. You can’t duplicate the appearance of a creature you’ve never seen, and you revert to your natural form if you die.
 	    - You decide what you look like, including your height, weight, facial features, the sound of your voice, coloration, hair length, sex, and any other distinguishing characteristics. You can make yourself appear as a member of another race, though none of your game statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this trait to become quadrupedal, for instance. Your clothing and other equipment don’t change in appearance, size, or shape to match your new form, requiring you to keep a few extra outfits on hand to make the most compelling disguise possible.

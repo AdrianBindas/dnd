@@ -9,7 +9,7 @@ description:
 - **Alignment** Chaotic
 - **Age** Slightly shorter lifespan than humans, reaching adulthood around age 15 and living up to 60
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Darkvision.** You have a cat's keen senses, especially in the dark. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 	- **Cat’s Luck.** Once per long rest when you attempt a Dexterity saving throw, you can roll the saving throw tice and take the better result. You must decide to use this ability after the dice is rolled but before the result is determined.
 	- **Tabaxi Curiosity.** Thanks to your curious nature, you gain proficiency with two of the following skills of your choice: Insight, Investigation, Sleight of Hand, Stealth, Perception or Survival.

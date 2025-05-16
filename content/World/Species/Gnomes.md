@@ -9,7 +9,7 @@ description:
 - **Alignment** Lawful
 - **Age** Maturing around 40 years of age, living up to 200 years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.
 	- **Tinker's Expertise.** You gain proficiency with Tinker's Tools. Additionally, whenever you make an ability check using Tinker's Tools or an Intelligence check regarding constructs or mechanical traps, you can treat a d20 roll of 7 or lower as an 8.
 	- **Scrapwork.** You create a small, handheld contraption with an effect chosen from the list below. It takes 5 minutes to prepare a contraption and you can create one contraption per long rest if you have materials to do so. At maximum, the number of contraptions that you have currently created is equivalent to your proficiency bonus. After using the contraption, it is destroyed. 

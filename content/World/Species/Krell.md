@@ -9,7 +9,7 @@ description:
 - **Alignment** Lawful
 - **Age** Krell mature quickly, reaching adulthood around age 5 or 6, and rarely live beyond 40 years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Amphibious.** You can breathe air and water.
 	- **Born in Water.** You have swimming speed equal to your walking speed.
 	- **Psychic.** You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.

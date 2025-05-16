@@ -9,7 +9,7 @@ description:
 - **Alignment** Lawful, many times obeying commands given during their creation.
 - **Age** Indefinite, as long as their bodies continue to hold on.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Constructed Resilience.** You were created to have remarkable fortitude, represented by the following benefits:
 	    - You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
 	    - You don’t need to eat, drink, or breathe.

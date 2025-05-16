@@ -9,7 +9,7 @@ description:
 - **Alignment** Chaotic
 - **Age** Maturing and aging faster than humans, reaching adulthood around 10 years with expected lifespan around 60 years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Rabbit Hop.** As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking opportunity attacks. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 	- **Danger Sense.** Gains advantage on Wisdom (Perception), Wisdom (Survival), and Intelligence (Investigation) checks based on hearing.
 	- **Graceful Dancer.** You can use your Dexterity score in place of your Strength score for all Athletics checks.

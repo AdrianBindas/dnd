@@ -9,7 +9,7 @@ description:
 - **Alignment** Lawful
 - **Age** Orcs reach maturity around age 12 and rarely live longer than 60 years. 
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Primal Intuition.** You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
 	- **Druid Magic.** You know one cantrip of your choice from the druid spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this race).
 	- **Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.

@@ -9,10 +9,10 @@ description:
 - **Alignment** Various, mostly neutral
 - **Age** Aging significantly longer than humans, usually hundreds of years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Arcane Study.** You gain advantage on Intelligence (Arcana) checks.
-	- **Blood Magic.** Ish'karri excel in a dark art of hemomancy, expending their life essence in exchange for magical powers. They get access to the blood magic incantations. In order to use them, ish'karri have to utter a phrase and draw their blood (with a knife or other means). Immediately after you use one of these incantations, roll 1d10 and drop your hit points by the amount rolled, which can't be reduced in any way. If you drop to 0 hit points as a consequence of casting the incantation, the incantation fails and has no effect. 
-		- **Life Siphon.** As an action you drain your life essence to mend another creature's wounds. One creature of your choice that you can see within 60 ft. regains the number of hit points you took after casting this incantation. 
+	- **Blood Magic.** Ish'karri excel in a dark art of hemomancy, expending their life essence in exchange for magical powers. They get access to the blood magic incantations. In order to use them, ish'karri have to utter a phrase and draw their blood (with a knife or other means). Immediately after you use one of these incantations, roll 1d10 and drop your hit points by the amount rolled, which can't be reduced in any way. This damage does **not** evoke a Constitution saving throw to maintain your concentration. If you drop to 0 hit points as a consequence of casting the incantation, the incantation fails and has no effect. 
+		- **Life Siphon.** As a bonus action you drain your life essence to mend another creature's wounds. One creature of your choice that you can see within 60 ft. regains the number of hit points you took after casting this incantation. 
 		- **Blood Weaving.** As an action you may shape your spilled blood (at max 500 ml or 8x8x8 cm cube) in following ways:
 			- You move the blood, the movement doesn't have enough force to cause damage. 
 			- You cause the blood to form into simple shapes and animate at your direction.

@@ -1,0 +1,1 @@
+[[Adventure info|Bloodshed at the Absolution Square]] (one-shot)

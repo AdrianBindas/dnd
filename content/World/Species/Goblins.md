@@ -9,7 +9,7 @@ description:
 - **Alignment** Most goblins are wildly chaotic, lacking respect for any hierarchy. No particular inclination toward good or evil but a strong tendency toward mischief. 
 - **Age** Maturing faster than humans, around age 5. They age noticeably faster, and though few goblins live to old age, the most cautious rarely live longer than 30 years.
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of grey.
 	- **Stealthy**: You gain proficiency in the Stealth skill.
 	- **Savage Attacks**: When you score a critical hit with a melee or ranged weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.

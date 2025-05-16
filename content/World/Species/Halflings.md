@@ -9,7 +9,7 @@ description:
 - **Alignment** Neutral
 - **Age** 40-50 years
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Mask of the Wild.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 	- **Lucky.** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 	- **Riders.** Halflings traverse long distances on their loyal mounts, giving them access to a Find Steed with an *instant* cast time. Once you use this trait, you can’t use it again until you finish a long rest. In addition, they gain advantage on Wisdom (Animal Handling) checks.

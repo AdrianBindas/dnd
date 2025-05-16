@@ -25,16 +25,16 @@ Each day, the signs are are more and more obvious - they are coming back.
 Relevant species: [[Krell]], [[Tharrs]]
 
 #### The Chieftain
-The ways of the orcish tribes are clear - when the old chieftain dies, a gathering must be held, where a new chieftain is chosen from amongst the many candidates. But the times are dire - a peace with the Lagon Empire is fragile and our brothers are in disarray, forgetting our laws and traditions. Many have devolved themselves to nothing but quarreling beasts, lashing out in fear, who condemn our hierarchy and traditions. Others have declared themselves chieftains without proper selection or rituals, disregarding the laws. But the laws are clear - the pretenders shall be dealt with and a gathering to be held so we can elect a new chieftain.
+The ways of the orcish tribes are clear - when the old chieftain dies, a gathering must be held, where a new chieftain is chosen from amongst the many candidates. But the times are dire - a peace with the Arrkoth Empire is fragile and our brothers are in disarray, forgetting our laws and traditions. Many have devolved themselves to nothing but quarreling beasts, lashing out in fear, who condemn our hierarchy and traditions. Others have declared themselves chieftains without proper selection or rituals, disregarding the laws. But the laws are clear - the pretenders shall be dealt with and a gathering to be held so we can elect a new chieftain.
 Relevant species: [[Orcs]]
 
-#### Orbis Imperialis
-Along with the Lagon Empire, came the Imperial Church. Caring for the sick and poor, bringing order and safety. But soon, their power and importance grew. The Church became a so-called backbone of the Empire and their presence started to be suffocating. Abolishing our beliefs, our rituals, our gods. Favoring their own, reducing inhabitants of conquered regions to secondary citizens. Silencing opposition or any deviants. Stuffing themselves full while we starve.
+#### Sacratissimus Ordo Imperialis Vocis Aeternae Dei Arrkothae
+Along with the Arrkoth Empire, came the Imperial Church. Caring for the sick and poor, bringing order and safety. But soon, their power and importance grew. The Church became a so-called backbone of the Empire and their presence started to be suffocating. Abolishing our beliefs, our rituals, our gods. Favoring their own, reducing inhabitants of conquered regions to secondary citizens. Silencing opposition or any deviants. Stuffing themselves full while we starve.
 But we shall resist, make ourselves be heard and stand up for our rights.
 Relevant species: [[Humans]], [[Orcs]], [[Dwarves]], [[Elves]], [[Gnomes]], [[Krell]], [[Halflings]], [[Devians]], [[Goblins]], [[Kenku]]
 
 #### Project Ichnoss
-A hegemon feasts on the east. The Lagon Empire is devouring one nation after the other and it's just a question of time before they set their sights on our cities. We must be prepared, and if the situation requires, strike first while the Empire is focused elsewhere. 
+A hegemon feasts on the east. The Arrkoth Empire is devouring one nation after the other and it's just a question of time before they set their sights on our cities. We must be prepared, and if the situation requires, strike first while the Empire is focused elsewhere. 
 In order to ensure the attack is brutal and decisive, we need a weapon. While the military is gearing up on war, our scientists are working on a new project. The details are known only to a handful of chosen individuals and it must stay this way.
 To support development of such project, proficient mercenaries, scientists and artisans are to be contracted and assigned with tasks vital for the success of the project. Information is to be distributed on a need to know basis and the contracted subjects will be notably rewarded. If any of the subjects refuse to cooperate, application of more persuasive measures is allowed at yours own discretion.
 We shall make the giant kneel.

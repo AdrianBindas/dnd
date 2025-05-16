@@ -9,7 +9,7 @@ description:
 - **Alignment** Lawful
 - **Age** 300-400 years
 - **Racial Features**
-	- **1+1 ASI** Choose one ability score to increase by 1. Choose another ability score to increase by 1.
+	- **1+1 ASI** Choose one ability score to increase by 1. Choose a different ability score to increase by 1.
 	- **Magic Averse.** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
 	- **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of grey.
 	- **Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
