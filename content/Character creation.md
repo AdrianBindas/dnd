@@ -1,3 +1,8 @@
+---
+title: Character creation
+draft: false
+description:
+---
 As this setting contains homebrewed species, nations, societies, and factions, a following simple guide has been created to describe character creation process.
 Generally it is identical to the [DnD 5e process](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters) with few exceptions:
 - Pick from homebrewed species only.
@@ -11,7 +16,7 @@ Specific steps for the character creation are:
 	3. Feel free to get inspired by the list of [[Questlines|questlines]], current events taking place in the world, and possibly weave them into your backstory.
 	4. Feel free to get inspired by the list of [[Gods and religion|deities]] watching over the world. Work with the DM when the list is inadequate and more gods and deities should be created.
 	5. It is recommended to consult the concept with the DM.
-2. Pick a character species from the [[List of species]].
+2. Pick a character species from the Species folder.
 	1. Alternatively come up with you own idea for a custom species and consult with the DM.
 3. Pick a fun class from the official DnD 5e class list.
 	1. Source can for example be [dnd5e.wikidot.com](https://dnd5e.wikidot.com/#toc19).
