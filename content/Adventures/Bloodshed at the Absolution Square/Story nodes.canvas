@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"604b4c49aa9d6ea0","type":"text","text":"**A. Tavern**\n- meet with the innkeep, mercenaries, cleric, gamblers and others\n- mercenary lead is being troublesome\n- go to sleep, preferably in tavern, optionally in their own home","x":-125,"y":-30,"width":385,"height":210},
+		{"id":"c04ee91313405c27","x":400,"y":-92,"width":454,"height":334,"type":"text","text":"**B. Under the Dome**\n- woken up before the dawn (no long rest?), the force field has surrounded the square\n- crowd forms on the square, mercenary handles the panic and sends everyone to their homes\n- the force field is opaque, black as a night sky with dim stars, someone claims they were  transported to another place\n- investigation reveals abjuration school and inability to bypass the field by any means "},
+		{"id":"9551239db42e91a3","x":1000,"y":-92,"width":505,"height":334,"type":"text","text":"**C. Return to the Tavern**\n- mercenaries invite group into the tavern\n\t- captain wants to keep people in their homes, make group patrol the streets and have his own people look into the cause of the barrier\n\t- the negotiations are interrupted as someone brings a wounded person and asks for help\n\t- wounds? why? where?\n\t- the wounded person can be stabilized for a while\n\t- captain reluctantly accepts group and lets them help"},
+		{"id":"43959bc3281761e0","x":-146,"y":340,"width":428,"height":312,"color":"4","type":"text","text":"**Mercenary captain**\n- old Felidar, missing an eye and a leg\n- prosthetic leg\n- snorts some white powder all the time to silence the pain\n- assertive, calculating and cold\n- number one priority is stopping the disease so it does not spread further\n- gets into conflict with other survivors"},
+		{"id":"9f926ac8894ae6f9","x":-96,"y":-360,"width":328,"height":180,"color":"4","type":"text","text":"**Innkeep**\n- looks pragmatic, is soft inside\n- cares about everyone\n- usually silenced as his power is limited"}
+	],
+	"edges":[
+		{"id":"6142db06114d9783","fromNode":"604b4c49aa9d6ea0","fromSide":"right","toNode":"c04ee91313405c27","toSide":"left"},
+		{"id":"29d29f67e44dc0bd","fromNode":"c04ee91313405c27","fromSide":"right","toNode":"9551239db42e91a3","toSide":"left"},
+		{"id":"3c2056d51fe9d1bf","fromNode":"604b4c49aa9d6ea0","fromSide":"bottom","toNode":"43959bc3281761e0","toSide":"top","toEnd":"none"},
+		{"id":"ce5b6da950ca3fb9","fromNode":"604b4c49aa9d6ea0","fromSide":"top","toNode":"9f926ac8894ae6f9","toSide":"bottom","toEnd":"none"}
+	]
+}

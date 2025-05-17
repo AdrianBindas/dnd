@@ -1,0 +1,36 @@
+---
+title: 
+draft: true
+description:
+---
+- Causes
+	- some dwarf and gnome families are unhappy with the Ellyria Treaty
+	- Church forces Imperial Faith upon the citizens
+		- widespread corruption and arrests
+		- crackdowns on non-Imperial shrines and churches
+		- discrimination of some minorities (Ish'karri, Veilkin)
+	- imperialism and want for independence
+- Empire positives
+	- large amount of wealth and military personnel
+	- spreading progress and unity
+- Moderate demands
+	- Separation of Church from Empire
+	- legal process of Church members
+	- freedom of religion
+- Radical demands
+	- All of the moderate demands plus
+	- Liberation of newly-gained Imperial territories
+	- Revision of the Ellyria Treaty
+	- Trials for Arrkoth family members
+- Timeline
+	- First expansions into multiple human nations went quite peacefully
+	- Subsequent wars on kenku, orcs, dwarves and forests of halflings, devians, tabaxi and elves caused widespread dissatisfaction
+	- Church became aggressive shortly thereafter, swimming in gold and silver, even during a short starvation period
+		- oppression and discrimination of foreign religions, species
+	- around 3 years ago a large protest took place in one of the smaller cities by non-humans, most were arrested
+		- as a revenge, rural territories started burning down churches and shrines of the Imperial Faith
+		- large protests took place in Ellyria, even humans joined
+		- not many casualties but very low opinion of the church
+	- few months ago Church became desperate and began with the fear tactic, practice of foreign religion became punishable, widespread arrests, sometimes murders
+		- spreading lies and misconceptions about the foreign religions, mostly elves, orcs...
+	- since then largescale protests, frequent violent clashes over many sacred places

@@ -14,7 +14,7 @@ Machines have risen in demonstration. The cold, bloodless contraption without em
 Relevant species: [[Gnomes]], [[Automatons]]
 
 #### Calling of the Deep
-It all started with the missing miner squad. That damned day, when *it* has awakened, in the depths under our Capital. We don't know *how* or *why*, most importantly, we don't know *what*. But it's there, keeping us awake at night, the cacodaemoniacal melody ringing through the layers of granite under our feet. That sound resonates into your skull, slowly turning you mad, violent and eventually delirious. Depths of the earth start to feel irresistible, the dark tunnels drawing you closer. 
+*It* all started with the missing miner squad. That damned day, when *it* has awakened, in the depths under our Capital. We don't know *how* or *why*, most importantly, we don't know *what*. But *it* is there, keeping us awake at night, the cacodaemoniacal melody ringing through the layers of granite under our feet. *That* sound resonates into your skull, slowly turning you mad, violent and eventually delirious. Depths of the earth start to feel irresistible, the dark tunnels drawing you closer. 
 The lower levels were evacuated but *it* is slowly getting stronger, we can feel that. Expeditions go missing or return deranged, muttering about shadows tracing their every move. If we do not stop *it*, *it* will consume us *all*.
 Relevant species: [[Dwarves]], [[Gnomes]], [[Automatons]], [[Goblins]]
 
