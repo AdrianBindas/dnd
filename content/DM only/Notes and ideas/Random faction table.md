@@ -1,3 +1,10 @@
+---
+title: "Random faction table"
+publish: false
+description: 
+tags: 
+date: "2025-08-03"
+---
 1. Arrkoth Imperium (aristocracy, royalty, personal squad)
 2. Arrkoth revolution
 3. The Ellyrian Council

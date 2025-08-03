@@ -1,3 +1,10 @@
+---
+title: "Voice acting archetypes"
+publish: false
+description: 
+tags: 
+date: "2025-08-03"
+---
 #### Speed
 - fast
 - medium

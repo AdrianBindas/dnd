@@ -1,3 +1,10 @@
+---
+title: "DM Tools"
+publish: false
+description: 
+tags: 
+date: "2025-08-03"
+---
 # Random tables
 ## NPC tables
 [Behind the Name (names, description)](https://www.behindthename.com/random/)
