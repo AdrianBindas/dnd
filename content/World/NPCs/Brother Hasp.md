@@ -1,0 +1,5 @@
+- **Race:** Dwarf
+- **Origin:** A monastery that worships doors and keys.
+- **Quirk:** Can hear the "ticking" of any mechanism, even biological ones.
+- **Profession:** Locksmith / "lock inspector" (tests vaults). Created Door 78.
+- **Goal:** To construct a door that opens to a different place each time.

@@ -1,7 +1,9 @@
 ---
 title: Character creation
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-07-29
 ---
 As this setting contains homebrewed species, nations, societies, and factions, a following simple guide has been created to describe character creation process.
 Generally it is identical to the [DnD 5e process](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters) with few exceptions:

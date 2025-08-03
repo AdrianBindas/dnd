@@ -3,6 +3,7 @@ title:
 draft: true
 description:
 ---
+- idea: life is easier but less independent
 - Causes
 	- some dwarf and gnome families are unhappy with the Ellyria Treaty
 	- Church forces Imperial Faith upon the citizens
@@ -11,16 +12,18 @@ description:
 		- discrimination of some minorities (Ish'karri, Veilkin)
 	- imperialism and want for independence
 - Empire positives
-	- large amount of wealth and military personnel
-	- spreading progress and unity
+	- market
+	- job opportunities
+	- territory protection
+	- infrastructure and comfort
 - Moderate demands
 	- Separation of Church from Empire
 	- legal process of Church members
 	- freedom of religion
+	- Revision of the Ellyria Treaty
 - Radical demands
 	- All of the moderate demands plus
 	- Liberation of newly-gained Imperial territories
-	- Revision of the Ellyria Treaty
 	- Trials for Arrkoth family members
 - Timeline
 	- First expansions into multiple human nations went quite peacefully

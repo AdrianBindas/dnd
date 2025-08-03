@@ -1,7 +1,9 @@
 ---
 title: Ish'karri
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** Medium
@@ -29,3 +31,5 @@ description:
 - **Religion** No organized religion, philosophies based on rational thinking and practicality.
 - **Language** The Ish'karrian language is an ancient language that has spread across the Vesper continent and became a widely used "Vesperian" language.
 - **Relevant questlines** [[Questlines#Project Ichnoss]]
+- **Gallery**
+![[ishkari1.png|350]] ![[ishkari2.png|350]]

@@ -1,7 +1,9 @@
 ---
 title: Tharrs
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** Medium
@@ -26,3 +28,5 @@ description:
 - **Religion** Tharrs revere [[Gods and religion#**The Great Old One**|The Great Old One]], an ancient being to whom they build small shrines or sanctums.
 - **Language** Tharr language is especially ancient and difficult for any foreigners to understand. Many tharrs are multilingual by necessity, having lived through the rise and fall of multiple languages. They often speak archaic versions of modern tongues, occasionally using expressions or references that have fallen out of common usage.
 - **Relevant questlines** [[Questlines#Leviathan Rises]]
+- **Gallery**
+![[tharr1.png|350]] ![[tharr2.png|350]]

@@ -1,7 +1,9 @@
 ---
 title: Humans
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** Medium
@@ -29,3 +31,5 @@ description:
 - **Religion** Formerly a vast pantheon of gods and spirits. In the territories under the influence of the Arrkoth Empire, the Imperial Church is a prominent proselytizer of the faith of the Empress of Arrkoth.
 - **Language** Widespread language of humans has been accepted by many other species and is now known as an 'Orynthian' language. This facilitates trade and communication between different human communities and other races.
 - **Relevant questlines**: [[Questlines#Orbis Imperialis]]
+- **Gallery**
+![[human1.png|350]] ![[human2.png|350]]

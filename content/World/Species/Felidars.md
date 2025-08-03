@@ -1,7 +1,9 @@
 ---
 title: Felidars
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** Medium
@@ -19,3 +21,5 @@ description:
 - **Religion** Reverence for natural forces which are many times understood as whims or punishments of various gods or spirits.
 - **Language** The felidar language incorporates rumbling growls, purrs, and roars alongside spoken words. Some felidars speak Vesperian or Orynthian language but many concepts important to felidars lack direct translations.
 - **Relevant questline** [[Questlines#The Broken Heart]], [[Questlines#Project Ichnoss]]
+- **Gallery**
+![[felidar1.png|350]] ![[felidar2.png|350]]

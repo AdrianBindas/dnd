@@ -1,7 +1,9 @@
 ---
 title: Gods and religion
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-07-29
 ---
 ###### **The Hermit** - **Nahl**
 god of magic, major elven god
@@ -23,6 +25,8 @@ an ancient goddess of nature, fauna and flora, major elven and halfling goddess
 Tharr god, patron of the long living, not much is known
 ###### **The Hanged Man**
 god of death and afterlife
+###### **The Fool**
+also known as 'The Gambler', god of chance and luck
 ###### **Koreon**
 god of miners, underworld, popular amongst dwarves
 ###### **Jenkaal**

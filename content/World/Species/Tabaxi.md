@@ -1,7 +1,9 @@
 ---
 title: Tabaxi
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** Medium

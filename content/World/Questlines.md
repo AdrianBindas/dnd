@@ -1,7 +1,9 @@
 ---
 title: Questlines
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-07-29
 ---
 #### The Broken Heart
 Throughout many regions of Orynthia it is a customary tradition to bring a halfling on a dangerous voyage, because it brings adventurers a good fortune. Moreso when the journey leads through a forest, fierce jungle or any sort of wilderness, where halflings are invaluable guides and trackers. It's not unusual for one halfling to deliver a whole caravan from certain doom. Surely these trustful, lively and adventurous inhabitants of the forest have nothing to hide. Or do they?

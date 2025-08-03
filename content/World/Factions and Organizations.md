@@ -4,5 +4,38 @@ draft: true
 description:
 ---
 - Gnome universities
+	- each privately owned
+	- focuses on different studies - arcane, mechanics, military, crafts...
 - University of Vesper
-- 
+	- a singular entity, state owned
+	- focused on noble arts - arcane, philosophy, literacy
+- Trade Union of Artisans of Ellyria
+	- mechanics, artisans, smiths
+	- mostly dwarves and gnomes
+- Imperial Bureau of the Interdimensional Affairs
+	- Empress' personal diplomats and warriors, able to traverse labyrinth
+- Imperial Church
+	- led by the Highest who is able to make laws
+	- under the direct administration of the Empress
+	- large swathes of land and influence in the Empire
+	- takes care of proselytization and spreading of the faith
+	- collects taxes, educates, protects villagers
+	- old and powerful but rotten
+	- multiple (un-)official branches:
+		- Information Bureau
+		- Divine Militia
+		- Hunters
+- Kharak Information Bureau
+	- interested in sowing discord in Arrkoth
+	- high profile intelligence gathering
+- Ellyrian Council
+	- moderate branch of the revolution
+	- Imperial aristocrats, dwarven and gnomish high profile individuals
+	- feel fucked over by the Empire
+	- seek more power and revision of the Ellyria Treaty
+- Independence Covenant
+	- radical branch of the revolution
+	- anti-imperial, anti-imperialism independence group
+	- illegal, terroristic organization
+- Shadow Broker of the ...
+	- enigmatic figure leading an intelligence brokering organization

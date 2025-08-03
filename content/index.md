@@ -1,7 +1,9 @@
 ---
 title: Homepage
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-07-29
 ---
 Welcome to https://wiki.immeral.xyz.
 

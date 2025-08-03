@@ -1,7 +1,9 @@
 ---
 title: Adventure info
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-07-29
 ---
 **DnD One-shot: Bloodshed at the Absolution Square**
 

@@ -1,7 +1,9 @@
 ---
 title: Devians
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** You are Medium or Small. You choose the size when you select this race.
@@ -19,3 +21,5 @@ description:
 - **Religion** The primary deity of devians is [[Gods and religion#**The Dancer**|The Dancer]], representing the very characteristics of the devians - enthusiasm, easygoingness and enjoyment of life.
 - **Language** No specific language, devians speak Orynthian.
 - **Relevant questlines** [[Questlines#The Broken Heart]]
+- **Gallery**
+![[devian1.png|350]] ![[devian2.png|350]]

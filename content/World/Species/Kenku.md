@@ -1,7 +1,9 @@
 ---
 title: Kenku
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-08-03
 ---
 - **Creature Type** Humanoid
 - **Size** Your size is Medium or Small. You choose the size when you select this race.

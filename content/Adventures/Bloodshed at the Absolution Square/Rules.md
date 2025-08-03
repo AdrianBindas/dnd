@@ -1,7 +1,9 @@
 ---
 title: Rules
-draft: false
-description:
+publish: true
+description: 
+tags: 
+date: 2025-07-29
 ---
 Rules follow traditional Dungeons and Dragons 5th edition with few changes:
 1. Exhaustion rules follow 2024 edition:

@@ -1,0 +1,2 @@
+Veyric is on his quest to fetch an eldritch blood for his use. Visits the Dusk Exchange, trader knows his name, redirected to the slums to help with de-demonization, meets Primus. Finds out that the trader has been feeding ppl to the demon. When he comes back, meets with Lucka.
+Lucka has a dream, fighting alongside Veyric against Lukáš.
