@@ -21,3 +21,5 @@ zayne long term:
 - not interested in higher level and politics
 - interested not only in artifacts but also in secrets
 - no issues with killing but no pleasure
+
+

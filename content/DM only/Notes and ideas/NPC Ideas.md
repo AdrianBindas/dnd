@@ -9,3 +9,4 @@ description:
 	- popcorn maker that looks like glass ball, incinerates everything within
 - playing cards against some lesser god
 - The Correspondent - head of some non violent resistance
+- very muscled doctor, left for dead by his former companions, distrustful

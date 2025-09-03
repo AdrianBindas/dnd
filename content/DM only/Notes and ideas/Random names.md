@@ -14,32 +14,32 @@ Yeawyth Empire
 Mevaria Empire
 Prowen Empire
 ##### General Places
-Varkuun
-Cidralith
+~~Varkuun~~
+~~Cidralith~~
 The Sepulcher of Nahl
 Ish'karuun
 The Weeping Crucible
-Palam Empire
+~~Palam Empire~~
 Absolution
 Éternité
 Argent
 Aventure
 Zaekkyria
 Wyr
-Rawiya
+~~Rawiya~~
 Rallya
-Thyrria
+~~Thyrria~~
 Wraecrad
 Eawea
 Ishirod
 Vocras
 Vexus
-Elandor
-Arkhaven
-Oryndor
-Myrethil
+~~Elandor~~
+~~Arkhaven~~
+~~Oryndor~~
+~~Myrethil~~
 Virethorn
-Korvain
+~~Korvain~~
 Arcanis
 Zirith
 Solranth
@@ -62,7 +62,7 @@ Brill
 Nimiriad
 Melvarach
 D'Armenty
-Erythach
+~~Erythach~~
 Morgonai
 ~~Jenkaal~~
 ~~Xaloc~~
@@ -108,8 +108,8 @@ Exalted/Glorious Horror
 **Brynefjord** (Burning Fjord)
 ~~**Morgenstern** (Morning Star)~~
 ~~**Vargsholm** (Wolf Island)~~
-**Hvitklipp** (White Cliff)
-**Myrkrborg** (Dark City)
+~~**Hvitklipp** (White Cliff)~~
+~~**Myrkrborg** (Dark City)~~
 ~~**Stalgrad** (Steel City)~~
 ~~**Nattlys** (Night Light)~~
 ~~**Blodtorp** (Blood Village)~~
@@ -124,7 +124,7 @@ Exalted/Glorious Horror
 ~~**Kerkrade** (Church Clearing)~~
 ~~**Caerwyn** – (Welsh-influenced; “White Fortress”)~~
 ~~**Thornmarche** – (Anglo-French; perhaps a border town or trading post)~~
-**Skalvik** – (Old Norse; “Bay of Skalds,” or “Poet’s Bay”)
+~~**Skalvik** – (Old Norse; “Bay of Skalds,” or “Poet’s Bay”)~~
 **Eisengrund** – (Old High German; “Iron Ground” or “Iron Plains”)
 ~~**Belyndor** – (Celtic-flavored; regal, elvish-sounding)~~
 ##### Vesper Cities
