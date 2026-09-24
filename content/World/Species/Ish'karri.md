@@ -30,6 +30,6 @@ date: 2025-08-03
 - **Physiology** Ish'karri resemble humans with pale white, even albino skin tone. Their most distinctive features are small horns protruding from their foreheads, unusually colored eyes (gold or silver) and canine teeth. Many individuals bear scars tracking blood magic rituals they've performed. To combat excessive heat in their homelands, the ish'karri are cold-blooded, causing them to prefer hotter environments and making them colder to touch compared to other races.
 - **Religion** No organized religion, philosophies based on rational thinking and practicality.
 - **Language** The Ish'karrian language is an ancient language that has spread across the Vesper continent and became a widely used "Vesperian" language.
-- **Relevant questlines** [[Questlines#Project Ichnoss]]
+- **Relevant questlines** [[Minor Questlines#Project Ichnoss]]
 - **Gallery**
 ![[ishkari1.png|350]] ![[ishkari2.png|350]]

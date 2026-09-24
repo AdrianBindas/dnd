@@ -15,7 +15,7 @@ Specific steps for the character creation are:
 1. Create a character concept.
 	1. Come up with a simple pitch that is simple, short and gives basis for the rest of the character.
 	2. The pitch could for example be "Lone wanderer with prosthetic eye thirsty for revenge" or a "Friendly priest bringing back the faith of a long-forgotten god by accomplishing good deeds and taking care of the sick and wounded".
-	3. Feel free to get inspired by the list of [[Questlines|questlines]], current events taking place in the world, and possibly weave them into your backstory.
+	3. Feel free to get inspired by the list of [[Minor Questlines|questlines]], current events taking place in the world, and possibly weave them into your backstory.
 	4. Feel free to get inspired by the list of [[Gods and religion|deities]] watching over the world. Work with the DM when the list is inadequate and more gods and deities should be created.
 	5. It is recommended to consult the concept with the DM.
 2. Pick a character species from the [Species folder]( https://wiki.immeral.xyz/World/Species/).

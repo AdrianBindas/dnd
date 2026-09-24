@@ -3,7 +3,7 @@ title: Random names
 draft: true
 description: "sources: https://basicroleplaying.net/conlang/index.php, https://dicelog.com/yafnag"
 ---
-##### All
+##### Empires
 Lagon Empire
 Ekhopia Dynasty
 Ashitish Kingdom
@@ -14,32 +14,22 @@ Yeawyth Empire
 Mevaria Empire
 Prowen Empire
 ##### General Places
-~~Varkuun~~
-~~Cidralith~~
 The Sepulcher of Nahl
 Ish'karuun
 The Weeping Crucible
-~~Palam Empire~~
 Absolution
 Éternité
 Argent
 Aventure
 Zaekkyria
 Wyr
-~~Rawiya~~
 Rallya
-~~Thyrria~~
 Wraecrad
 Eawea
 Ishirod
 Vocras
 Vexus
-~~Elandor~~
-~~Arkhaven~~
-~~Oryndor~~
-~~Myrethil~~
 Virethorn
-~~Korvain~~
 Arcanis
 Zirith
 Solranth
@@ -55,49 +45,144 @@ Kyral
 Royaar
 Irrenys Arrkoth
 Yzador Arrkoth
+Meroe
+Nubian/Nubia
+Alodia
+Aksum
 ##### NPCs
-~~Brena~~
-~~Tulus~~
+**Orynthian**
+Elfrith
 Brill
 Nimiriad
-Melvarach
-D'Armenty
-~~Erythach~~
+~~D'Armenty~~
 Morgonai
-~~Jenkaal~~
-~~Xaloc~~
 Caladin
 Raphael
 Zuriel
 Azrael
-Saul
-Rotrig
-Y'dran
 Tycho
 Iskarion
-
-##### Gods
-~~Morgonai~~
-~~Xaloc~~
-~~Nahl~~
-~~Uriel~~
-~~Thagruk~~
-~~Girthak~~
-~~Invorak~~
-~~Koreon~~
-~~Melevor~~
-~~Gorr~~
-~~Abaddon~~
+Errant
+Marcus Favonius
+Lucius Octavius
+Cornelius Scipio
+Quintus Caepio
+Tiberius Asellus
+Licinia Achaius
+Llorn
+~~Poloch~~
+Warrith
+Micfalen
+Esmé
+Salm
+Gerard La Côté
+**Sylvian**
+Ildur
+Ellariel
+Dornian
+Urmitar
+Tariel
+Nîneth
+Davthath
+Jenstaer
+Lumien
+Ariawyn Cainelis
+Sylvar
+Merith Uriven
+Raine
+Ryllae Daexisys
+Lorsan
+Syllia 
+Cithrel 
+Ariawyn 
+Rûthien
+Tisha Liakrana
+Elkhazel Ianynore
+Alaion
+Ciradyl
+Fingoli
+Finwe
+Elros
+Gladore
+Shualnóne
+Mialethë
+Ennas
+Lumien
+**Deepspeech**
+Brukroc Asharmour
+Brostolin Forgebranch
+Destil Oakcloak
+Thulduhr
+Thalmir
+Gardal
+Ermren
+Ragmus
+Krammus
+Rottharn
+Glisrir
+Toidi
+**Vesperian**
+Nabuco
+Saul
+Kaan
+Torah
+~~Ketuvim~~
+Zecheriah
+Malakim
+Habaq
+Sefanya
+Zekarya
+Yehezq
+Ester
+Almaaz
+Rastaban
+Tejat
+Tojil
+Altair
+Ezra
+Seja
+Arajin
+Assa
+Kayla
+Eden
+**Orcish**
+Sogubu
+Wrukag
+Omogulg
+Viggulm
+Moth
+Ghorlorz
+Vrogak
+Bugak
+Rulfim
+Bulfim
+Lagakh
+**Abnormal**
+Crux
+Minelauva
+Fafnir
+Hadon
+Manfi
+Vagrant
+~~Sharbat~~ Gula
+Y'dran
+Ay-Doth
+D'iutlin
+Vraghest
+~~Xolotl \[ˈʃolot͡ɬ\]~~
 ##### Items
 Shard of the Drowned Star
 The Grief of Ten Thousand Mouths
 The Bone Psalm
 ##### Other
+Cosmic Wheel Sisterhood
+~~Les Lamentables~~
 The Ninefold Silence
 The Paralyzed Dominion
 The Burning Throne
 The Obsidian Throne
-Exalted/Glorious Horror
+~~Exalted/Glorious Horror~~
+Eldari
 ##### Orynthia Cities
 ~~**Vinterhavn** (Winter Harbor)~~
 ~~**Eldborg** (Fire Fortress)~~

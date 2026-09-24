@@ -1,0 +1,34 @@
+- An occult is on the rise, called The Blind Messengers, talking about the upcoming swarm, which will devour all the living on the surface of Orynthia.
+- Thalassians are growing concerned as rumors of a long lost empire coming back from the dead.
+- As a token of favor, **Iskra** told **Ismael** that another mirror was discovered, The Eternal Court has details. Syndicate is on their way to learn more.
+- **Dealer** vie, že **Nyx** bola súčasťou veľmi násilnej skupiny automatonov, ktorí sa snažili vydobiť si práva. Teraz sa snaží zmeniť svoju cestu.
+- **Dame Olivette** vie **Irekovi** poskytnúť kúsky informácií - "vyzerá to tak, ako by to niekto z neho vytrhol, násilne, akoby keby niekto vytrhol kus z neho", "vyžaduje to značnú mieru spolupráce, niekoľko chirurgických a okultných zákrokov". Odporúči mu vyhľadať istého Veilkina menom **Istyr Xana**, ktorý je ale veľmi nebezpečný a je ťažké ho nájsť. Odporúča začať u Tieňového Prostredníka alebo Pohrebníkov.
+- **Lady Corvessa** vie o existencii viacerých zrkadiel.
+- **Lady Corvessa** tuší, že **Dame Olivette** pracuje pre Tieňového prostredníka a má záujem o každý kus drahocennej informácie, na ktorú narazí.
+- **Starý dom** - dom starej pani **Ireny Tallow** a jej mačky; miesto stretnutia konšpirátorov
+	- Predná izba - písací stôl, posteľ, klbká s vlnou... 2 stráže
+	- Kuchyňa - malá izba plná sušených byliniek a starého riadu, varí sa voda na čaj
+	- Záhrada - padacie dvere do kanálov 1 strážny
+	- Hosťovská miestnosť na poschodí - meeting, posteľ sa odsunie, malý stôl s lampou a čajom, koberce po stenách maskujú zvuk
+	- Balkón na poschodí- Irena sedí a hačkuje
+	- Podkrovie - vrźgajúce dosky, rozsypaný popol
+- Elfské komando je pod vedením kapitána menom **Cirdanas**. Je jedným z najúspešnejších predstaviteľov elfov bojujúcich za nezávislosť. V boji ale nie je sám, počúva rozkazy niekoho iného...
+- Po tom čo cirkev neodpovedala na pozvánku **Vojvodu** pridať sa k lovu ani k hostine, Vojvodove psy roztrhali príslušníkov cirkvi, ktorých našli v lese.
+- **Stephane Sulle** sa nakazila keď utekala za milencom cez les. Vie o tom jej služobná, ktorá ju sprevádzala, zanechala stopy na mieste, kde sa vyskytujú insektoidi. Stephane donášala elfom, milencom je jeden z nich - **Cirdanas**. 
+- Briefing so Chantal - Jediná preživšia, videla ako Uriel Cabath porazil Vojvodu a použil červené vajíčka aby z neho absorboval energiu. Uriel sa potom ocitol pod útokom desivého čierneho vlka, zhodil celú jaskyňu, ktorá sa na nich zrútila a Kabál využil poslednú magickú energiu aby Chantal dostal von. Tvrdí, že Zaine je zbabelec, ktorý sa bojí ísť so svojou kožou na trh, že nemá žiadne zásady pomôcť alebo predísť úmrtiam a záleží mu iba na sebe. Rovnaký názor má aj na ostatných. Obviňuje ich zo smrti Kabála, Jacquesa, de'Ameryho... Vnútri sa obviňuje sama, že si skôr neuvedomila, kto je Uriel Cabeth a že nebola silnejšia. Odovzdá skupine dokumenty o Urielovi, plánuje pomôcť stabilizovať situáciu vo Vojvodstve a vydať sa ho hľadať.
+- Plán na dobytie Bastilly:
+	- Vonkajší perimeter a záhrady
+		- odpútanie pozornosti (explózia/falošný poplach/diplomatická návšteva)
+	- obytné priestory
+		- vniknúť cez vonkajšie okno/vnútorné nádvorie/strechu
+		- nájsť písomné dôkazy o vine Cirkvi - v trezore - číselnú kombináciu vie arcikardinál a jeho komorník, je napísaná v dokumentoch v pracovnom stole
+	- Podzemie - služobné priestory
+		- vypnúť bezpečnostné systémy - mág s alarmom a generátor magickej energie
+		- otráviť služobníctvo a posádku - studňa/kuchyňa
+	- Dolné poschodia veže - rekreačné priestory
+		- ukradnúť prsteň arcikardinála - počas spánku/zábavy
+		- vyslobodiť dievča (nebude sa chcieť vrátiť) - obojok zničiť/odomknúť/zbaviť sa šéfa
+	- Vrchol veže - zabezpečené magickým zámkom - otvára prsteň arcimága alebo explózia
+		- zabezpečiť zariadenie - konflikt s mágom
+		- prekonať pasce (niektoré sa dajú vypnúť v podzemí)
+		- neutralizovať polyp

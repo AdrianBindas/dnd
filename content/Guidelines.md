@@ -1,0 +1,18 @@
+- Let PCs fail slightly.
+- Prompt players to talk. 
+- Make every PC relevant, connected and engaged.
+- Describe locations and situations vividly using at least 2 senses.
+- Character interplay - establish dynamic, spread rumours, tie party together with emotions
+- NPC should promote interactions and play a role
+- Purpose or perish
+- Make it personal
+- Show, don't tell
+- ...but...., therefore.... (weave intentions and obstacles)
+- Surprise is cheap, telegraph it to cause suspense (Drama is tension and resolution.)
+- Follow motives and themes:
+	- Colonialism and oppression
+	- Progress through sacrifice 
+	- New age of technology
+	- Secrets of arcana
+	- Foreign worlds of the labyrinth
+- [[NPC Layers]]

@@ -20,4 +20,4 @@ date: 2025-08-03
 - **Physiology** Powerfully built humanoids, typically standing between 5 and 6 feet tall with muscular physiques. Their skin color ranges from shades of grey and green to brown. Their faces are characterized by broad noses, heavy brows, and often prominent lower canines that can resemble small tusks. 
 - **Religion** In the center of the orc pantheon stands [[Gods and religion#**The Protector - Uriel**|The Protector]]. Shamans and elders, respected for their wisdom and connection to the spiritual world, often serve as intermediaries and interpreters of divine will.
 - **Language** The Orcish language is limited by the structure that was developed long time ago during primitive orc societies. As the archaic orcish tongue struggles to adapt, various modern branches emerged, specific to each tribe. Some tribes have accepted derivatives of Orynthian or Sylvian tongue.
-- **Relevant questlines** [[Questlines#The Chieftain]], [[Questlines#Orbis Imperialis]], [[Questlines#The Broken Heart]]
+- **Relevant questlines** [[Minor Questlines#The Chieftain]], [[Minor Questlines#Orbis Imperialis]], [[Minor Questlines#The Broken Heart]]

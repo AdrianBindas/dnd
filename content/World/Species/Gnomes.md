@@ -25,4 +25,4 @@ date: 2025-08-03
 - **Physiology** Gnomes are short and lean humanoids with surprisingly strong hands and nimble fingers. Their most striking feature is their large eyes, adapted for the low light of their subterranean homes. Hair is typically dark (black, deep brown, grey), often kept practically short or intricately braided and pinned with mechanical clasps.
 - **Religion** Gnomish faith mirrors their societal values, focusing on deities that embody creation, craftsmanship, knowledge, the earth, and order ([[Gods and religion#**The Scholar**|The Scholar]], [[Gods and religion#**The Artisan** - **Malevor**|The Artisan]]).
 - **Language** Gnomes speak Orynthian, necessary for trade and interaction with surface dwellers. They also have their own language, Gnomish, which shares script with the Dwarven language.
-- **Relevant questlines** [[Questlines#Living Machine]], [[Questlines#Calling of the Deep]], [[Questlines#Orbis Imperialis]]
+- **Relevant questlines** [[Minor Questlines#Living Machine]], [[Minor Questlines#Calling of the Deep]], [[Minor Questlines#Orbis Imperialis]]

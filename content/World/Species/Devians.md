@@ -20,6 +20,6 @@ date: 2025-08-03
 - **Physiology** Rabbit-like humanoids with prominent and sensitive ears, red eyes and round tails. Physiology of the devians encompasses human and leporine features. They reassemble humans with rabbit ears, unnatural red eyes, and short hare-like tails. Devians possess powerful legs enabling impressive speed and acrobatic talents.
 - **Religion** The primary deity of devians is [[Gods and religion#**The Dancer**|The Dancer]], representing the very characteristics of the devians - enthusiasm, easygoingness and enjoyment of life.
 - **Language** No specific language, devians speak Orynthian.
-- **Relevant questlines** [[Questlines#The Broken Heart]]
+- **Relevant questlines** [[Minor Questlines#The Broken Heart]]
 - **Gallery**
 ![[devian1.png|350]] ![[devian2.png|350]]

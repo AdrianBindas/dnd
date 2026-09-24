@@ -78,7 +78,7 @@ Primeval entities of immense power, believed to have emerged before the humanoid
 *Strengths:* Unknown.
 *Weaknesses:* Unknown.
 #### Tsathoggua
-*Description:* Its head is of a monstrous toad with sleepy lids half-lowered over its globular eyes. The head sits on top of large obese belly covered in a mix of green slimy skin and a mockery of a short fur. Its four sloth-like appendages are too meager and too disfigured to support its weight. Thathoggua is a being as powerful as it is hideous. 
+*Description:* Its head is of a monstrous toad with sleepy lids half-lowered over its globular eyes. The head sits on top of large obese belly covered in a mix of green slimy skin and a mockery of a short fur. Its four sloth-like appendages are too meager and too disfigured to support its weight. Tsathoggua is a being as powerful as it is hideous. 
 *Environment:* Dark and shadowy places under Orynthia.
 *Behavior:* A deity or a spirit found most of the time to be in deep slumber. If disturbed, he will devour whoever awakened him, unless the awakener has a sacrifice to offer instead. Too slothful to meddle in the affairs of mortals.
 *Strengths:* Unknown. Its strength is thought to be comparable to a minor god. Avoid direct confrontation. More research needed.

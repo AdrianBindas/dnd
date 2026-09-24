@@ -3,13 +3,13 @@ title:
 draft: true
 description:
 ---
-- Orynthian
-- Protosylvian
+- Orynthian (european + traditional fantasy)
+- Protosylvian (elvish, soft)
 	- Halfling lang
 	- Sylvian
-- Deepspeech (Kur-Daram)
+- Deepspeech (Kur-Daram) (hard language)
 	- Dwarven
 	- Gnomish
 	- Goblinish
-- Vesperian
-- Orcish language
+- Vesperian (middle-east + spanish)
+- Orcish language (hard language)

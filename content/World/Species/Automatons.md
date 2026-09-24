@@ -28,6 +28,6 @@ date: 2025-08-03
   All automatons possess a magical core that serves as both heart and mind - typically infused with arcane energy. This core contains their consciousness and can potentially be transferred to a new body if their current one is severely damaged.
 - **Religion** Some automatons worship their creators as gods, while others have developed philosophical systems around concepts of consciousness, purpose, and free will. Few are drawn to deities of crafting and knowledge ([[Gods and religion#**The Artisan** - **Malevor**|The Artisan]], [[Gods and religion#**The Scholar**|The Scholar]]). Religious individuals often augment their bodies with engravings or attachments symbolizing their beliefs.
 - **Language** Automatons do not have a specific language, instead adopting the language of their creators.
-- **Relevant questlines** [[Questlines#Living Machine]], [[Questlines#Calling of the Deep]]
+- **Relevant questlines** [[Minor Questlines#Living Machine]], [[Minor Questlines#Calling of the Deep]]
 - **Gallery**
 ![[automaton1.png|350]] ![[automaton2.png|350]]

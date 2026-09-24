@@ -30,6 +30,6 @@ date: 2025-08-03
 - **Physiology** Wide range of physical appearances, with variations in skin, hair, and eye color, as well as build and height. However, the widespread use of enhancements significantly impacts their physical forms. These modifications can be subtle, like alchemically enhanced musculature or enchanted subdermal plating, or others such as fully integrated prosthetic limbs or magical implants. While these enhancements grant distinct advantages, the process often leaves the human body more vulnerable to harmful substances, resulting in a decreased resistance to poisons as their natural biological defenses may be compromised or overtaxed by the integrated technologies or alchemical residues.
 - **Religion** Formerly a vast pantheon of gods and spirits. In the territories under the influence of the Arrkoth Empire, the Imperial Church is a prominent proselytizer of the faith of the Empress of Arrkoth.
 - **Language** Widespread language of humans has been accepted by many other species and is now known as an 'Orynthian' language. This facilitates trade and communication between different human communities and other races.
-- **Relevant questlines**: [[Questlines#Orbis Imperialis]]
+- **Relevant questlines**: [[Minor Questlines#Orbis Imperialis]]
 - **Gallery**
 ![[human1.png|350]] ![[human2.png|350]]

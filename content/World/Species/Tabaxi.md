@@ -21,4 +21,4 @@ date: 2025-08-03
 - **Physiology** Tabaxi possess slender, agile bodies covered in short fur patterns ranging from spotted to striped in various combinations of gold, black, brown, and gray. Their faces feature  feline characteristics including whiskers, slit pupils, and mobile ears. 
 - **Religion** Tabaxi spirituality revolves around a multitude of small deities and spirits rather than organized religion. Most notable is [[Gods and religion#**Jenkaal**|Jenkaal]], god of the curious. They believe certain objects and locations hold inherent spiritual power. 
 - **Language** The old tabaxi language is long forgotten, nowadays tabaxi speak Sylvan and Orynthian with a heavy use of cat-like sounds.
-- **Relevant questlines** [[Questlines#The Broken Heart]]
+- **Relevant questlines** [[Minor Questlines#The Broken Heart]]

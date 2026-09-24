@@ -20,6 +20,6 @@ date: 2025-08-03
 - **Physiology** Stout and muscular humanoids, built for endurance over speed. Their bodies and senses are attuned to stone and earth, where they live most of their lives.
 - **Religion** Shrines and monuments to great forebears are common in dwarven strongholds, and it is believed that the spirits of these ancestors guide and protect their descendants. Number of different deities, each concerning specific part of life ([[Gods and religion#**Koreon**|Koreon]], [[Gods and religion#**The Artisan** - **Malevor**|The Artisan]])
 - **Language** Dwarven, harsh and guttural tongue, written in runes. Orynthian, with dialects often specific to the clan or region.
-- **Relevant questlines** [[Questlines#Calling of the Deep]], [[Questlines#Orbis Imperialis]]
+- **Relevant questlines** [[Minor Questlines#Calling of the Deep]], [[Minor Questlines#Orbis Imperialis]]
 - **Gallery**
 ![[dwarf1.png|350]] ![[dwarf2.png|350]]

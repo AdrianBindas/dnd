@@ -1,0 +1,23 @@
+- different stages
+	- Larvae
+	- Workers
+	- Queen/Maw
+- Mimicry
+	- people
+	- animals
+	- environments
+	- sounds
+	- smells
+- territorial
+- new queen can be created when larva is fed enough biomaterial/information/personality
+- trying to mimic humanoids to recover their lost form
+	- the perfect clone will hunt down the original to merge/sacrifice
+- collective intelligence
+	- larger the hive, more intelligence and personality posseses
+- telepathic - can do simple mind manipulation
+	- convince creature they never wanted to be there
+	- convince creature it wants to be friendly
+	- overload creature by sharing minds
+- used to be elves
+	- cursed by some Primordial for their folly/pride to disregard them and strive to be better than them
+	- R'auleks in the material world are only the 'aristocracy' or 'mages' of the original society

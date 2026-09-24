@@ -20,6 +20,6 @@ date: 2025-08-03
 - **Physiology** Felidars stand taller than humans on average, with powerful, muscular builds covered in short fur ranging from golden tan to brown, black or even spotted or striped.
 - **Religion** Reverence for natural forces which are many times understood as whims or punishments of various gods or spirits.
 - **Language** The felidar language incorporates rumbling growls, purrs, and roars alongside spoken words. Some felidars speak Vesperian or Orynthian language but many concepts important to felidars lack direct translations.
-- **Relevant questline** [[Questlines#The Broken Heart]], [[Questlines#Project Ichnoss]]
+- **Relevant questline** [[Minor Questlines#The Broken Heart]], [[Minor Questlines#Project Ichnoss]]
 - **Gallery**
 ![[felidar1.png|350]] ![[felidar2.png|350]]

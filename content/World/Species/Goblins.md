@@ -21,4 +21,4 @@ date: 2025-08-03
 - **Physiology** Goblins are small, nimble humanoids with skin tones ranging from earthy greens to grays. Their metabolism runs faster compared to other species which contributes to shorter lifespan, willingness to take risks and high energy levels.
 - **Religion** While goblins acknowledge the existence of deities and spirits, they do not worship them. They rather believe the spirits must be appeased, tricked or outfought to receive rewards and to avoid their wrath and whims.
 - **Language** Goblins language evolved from the ancient Deepspeech, written language uses symbols and pictographs. many goblins understand Dwarvish or Orynthian.
-- **Relevant questines** [[Questlines#Orbis Imperialis]], [[Questlines#Calling of the Deep]]
+- **Relevant questines** [[Minor Questlines#Orbis Imperialis]], [[Minor Questlines#Calling of the Deep]]

@@ -20,4 +20,4 @@ date: 2025-08-03
 - **Physiology** Halflings possess lithe, agile bodies built for stealth and quick movement. Their small stature enables them to navigate dense foliage and tight spaces with ease. 
 - **Religion** Halflings traditionally hold beliefs of a higher force residing in fauna and flora of the wilds, with their religious practices centered around nature-related mystical forces, spirits and rituals ([[Gods and religion#**The Lady**|The Lady]]). Many times their everyday lives become integrated with a deep respect for the cycles and mysteries of the natural world.
 - **Language** Halfling language originates in an ancient Sylvian, halflings are many times able to understand and communicate modern Sylvian used by elves. Orynthian, with dialects often specific to the region.
-- **Relevant questlines** [[Questlines#The Broken Heart]], [[Questlines#Orbis Imperialis]]
+- **Relevant questlines** [[Minor Questlines#The Broken Heart]], [[Minor Questlines#Orbis Imperialis]]

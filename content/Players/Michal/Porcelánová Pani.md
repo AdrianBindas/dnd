@@ -1,0 +1,9 @@
+- vzťah s bohom smrti?
+- kto ju zaklial?
+- v akom stave je jej rod?
+- kontakty:
+	- jej rod
+	- rodina ktorá jej niečo dlží
+	- niekto kto jej pomáhal s jedmi
+	- Dante
+	- 

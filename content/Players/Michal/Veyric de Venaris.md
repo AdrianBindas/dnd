@@ -10,3 +10,9 @@ Jeho tělo, jakoby bylo hostem pro mnoho dalších...
 Občas měl pocit, že slyší svoji rodinu... Ale spíš měl pocit... že v hlouby... za těmi známými hlasy v hlavě... je ještě jeden hlas.... šeptající nesrozumitelná slova... slova, která touží po krvi
 Jednu věc ale pochopil.... už vidí proč jsou měsíc a hvězdy tak krásné.... už vidí to, co jeho rodiče před ním
 sister will need his help
+
+
+Those are not creatures, they are a DISEASE!
+Morový kráľ?
+Morový imperátor?
+Emperor of All Maladies?
