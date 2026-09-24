@@ -11,4 +11,11 @@ Information about the adventures:  [Adventures](https://wiki.immeral.xyz/Adventu
 
 Character creation steps: [[Character creation]]
 
-Lore of the world: [[World]]
+Lore of the world: [[The World]]
+*Includes:*
+- [[Map of Vesper and Orynthia]]
+- [[NPCs registry]]
+- [[Location and places]]
+- [[Historical Annals]]
+- [[Deities and Spirits]]
+*and more...*

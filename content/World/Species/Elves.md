@@ -21,6 +21,6 @@ date: 2025-08-03
   Elven senses are finely tuned not only to the physical world but also to the currents of arcane power that flow around them. The very presence of magic is something they instinctively feel and see, much like others might notice a change in the wind.
 - **Religion** The spiritual beliefs of elven race include large amount of rituals and practices, many times varied by individual.
   Elves pay reverence to various forest spirits and souls that inhabit the Orynthia. Above such magic phenomena, elves revere ancestors and heroes of elven race, who became immortal to watch over their children.
-  Elves also possess a pantheon of demigods and gods, some of who originate in times before the race of men. Many elven gods are shrouded in mystery even between the members of the elven race ([[Gods and religion#**The Lady**|The Lady]]).
+  Elves also possess a pantheon of demigods and gods, some of who originate in times before the race of men. Many elven gods are shrouded in mystery even between the members of the elven race ([[Deities and Spirits#**The Lady**|The Lady]]).
 - **Language** Sylvian, melodic and song-like ancient language with its own script. Orynthian, with dialects often specific to the region.
 - **Relevant questlines** [[Minor Questlines#The Broken Heart]], [[Minor Questlines#Orbis Imperialis]]

@@ -8,7 +8,7 @@ date: "2025-07-27"
 ### Divine beings hierarchy
 0. [[Spirits]] - souls, remains, mass of energy stuck in a physical world, countless
 1. [[Ascendants]] - individuals with enough power to effortlessly travel between physical world and the Labyrinth, few and far between
-2. [[Gods and religion|Gods]] - revered ascendants, get energy from worship and sacrifice
+2. [[Deities and Spirits|Gods]] - revered ascendants, get energy from worship and sacrifice
 3. Aberrant Beings - aberrant beings originated in the Labyrinth
 4. [[Primordials]] - beings of the Labyrinth, something between aberrant beings and outer gods, original rulers of the physical world, their influence there was diminished during the Great Rapture
 5. Outer Gods - beings outside the understanding, eldritch and omnipotent
