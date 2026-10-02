@@ -5,45 +5,49 @@ description:
 tags: 
 date: 2025-07-29
 ---
-
 ## Major Deities
-### **The Hermit** - **Nahl**
+### The Hermit - Nahl
 god of magic, major elven god
-### **The Scholar** - **Seer**
+### The Scholar - Seer
 goddess of knowledge and academics
-### **The Artisan** - **Malevor**
+### The Artisan - Malevor
 god of crafts, mechanics, smiths and other craftsmen
-### **The Hag** - **Morgena**
+### The Hag - Morgena
 goddess of secrets, intrigue and spies
-### **The Protector (Warden) - Abaddon**
+### The Protector (Warden) - Abaddon
 major orcish god, protector of the living, upholder of justice and order
-### **The Hanged Man - Ehaageris**
+### The Hanged Man - Ehaageris
 god of death and afterlife
-### **The Seafarer - Xaloc**
+### The Seafarer - Xaloc
 major god of krell, deity of the oceans and water depths
 ## Minor Deities
-### **The Dancer**
+### The Dancer
 goddess of enjoyment, pleasure, lust and procreation, goddess of devians
-### **The Warmonger - Caestus**
+### The Warmonger - Caestus
 god of discipline, loyalty and military strategy
-### **Sun-bird - Invorak**
+### Sun-bird - Invorak
 kenku god of sun, protector of all that is alive
-### **The Moon Serpents - Thagruk & Girthak**
+### The Moon Serpents - Thagruk & Girthak
 the serpent twins, kenku evil gods that are bound to dance in the sky
-### **The Fool**
+### The Fool
 also known as 'The Gambler', god of chance and luck
-### **Zelios**
+### Zelios
 minor deity of fire and flames
-### **Tizzunax**
+### Tizzunax
 minor goddess of storms, thunder and lightning
-### **Gothis**
+### Gothis
 god of agriculture and plentiful harvest
-### **Koreon**
+### Koreon
 god of miners, underworld, popular amongst dwarves
-### **Jenkaal**
+### Jenkaal
 one of the tabaxi deities, patron of curious adventurers
 ## Waning Deiting
-### **Gorr**
+### Gorr
 old orcish god, largely abandoned
-### **The Lady**
+### The Lady
 an ancient goddess of nature, fauna and flora, major elven and halfling goddess
+## Unknowns
+### Azathoth
+
+### The Emperor of All Maladies (trans. Morový kráľ)
+Also called the Malady or the Plague King, it is linked to the Bloom, but even scholars disagree on whether the name describes a creature, an infection, a god, or an idea that has learned to spread.

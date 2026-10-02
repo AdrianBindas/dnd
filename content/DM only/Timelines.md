@@ -4,7 +4,7 @@ draft: true
 description:
 ---
 The World timeline:
-1. Age of Primordials
+1. Age of Angels
 2. Age of the Unending Frost
 3. Age of Sylvian
 4. Age of Kings

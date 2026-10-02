@@ -19,5 +19,5 @@
 	- convince creature it wants to be friendly
 	- overload creature by sharing minds
 - used to be elves
-	- cursed by some Primordial for their folly/pride to disregard them and strive to be better than them
+	- cursed by some Angel for their folly/pride to disregard them and strive to be better than them
 	- R'auleks in the material world are only the 'aristocracy' or 'mages' of the original society

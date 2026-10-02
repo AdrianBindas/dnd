@@ -53,7 +53,7 @@ Aksum
 **Orynthian**
 Elfrith
 Brill
-Nimiriad
+~~Nimiriad~~
 ~~D'Armenty~~
 Morgonai
 Caladin
@@ -176,13 +176,21 @@ The Grief of Ten Thousand Mouths
 The Bone Psalm
 ##### Other
 Cosmic Wheel Sisterhood
-~~Les Lamentables~~
+Les Lamentables
 The Ninefold Silence
 The Paralyzed Dominion
 The Burning Throne
 The Obsidian Throne
-~~Exalted/Glorious Horror~~
+Exalted/Glorious Horror
 Eldari
+##### Akkadian
+tamḫūru ilūtu - glorious horror
+šarrūtu rūssu - exalted terror
+ṣu-ra-at num-mi-ri - form of a beast
+iluti sinništi - cosmic sister
+šeru - beast
+salmu - form
+šuqul - the paralyzed
 ##### Orynthia Cities
 ~~**Vinterhavn** (Winter Harbor)~~
 ~~**Eldborg** (Fire Fortress)~~

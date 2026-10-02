@@ -1,21 +1,25 @@
 ---
 title: Homepage
 publish: true
-description: 
-tags: 
+description:
+tags:
 date: 2025-07-29
 ---
+
 Welcome to https://wiki.immeral.xyz.
 
-Information about the adventures:  [Adventures](https://wiki.immeral.xyz/Adventures/)
+Information about the adventures: [Adventures](https://wiki.immeral.xyz/Adventures/)
 
 Character creation steps: [[Character creation]]
 
 Lore of the world: [[The World]]
-*Includes:*
+_Includes:_
+
 - [[Map of Vesper and Orynthia]]
-- [[NPCs registry]]
+- [[Characters and Organizations]]
 - [[Location and places]]
-- [[Historical Annals]]
+- [[Countries of the World]]
+- [[Dictionary of terms]]
+- [[Historical annals]]
 - [[Deities and Spirits]]
-*and more...*
+  _and more..._

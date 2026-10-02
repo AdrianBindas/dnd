@@ -17,7 +17,7 @@ date: "2026-09-13"
 ### ~~Revival of the Blind Messengers~~
 ### ~~The Broken Heart~~
 ---
-# The Primordials Rise
+# The Angels Rise
 ||Beings that created the common races are returning||
 ### The Bloating Worm
 ### Tombs of the Ancient

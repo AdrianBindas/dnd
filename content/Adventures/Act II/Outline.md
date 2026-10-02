@@ -1,8 +1,11 @@
 > [!important] Important questions
-> - What is at the bottom of the Soulwell? One of the Primordials?
-> - Who wants to kill a Hanged Man just to see the effects it has on death and life?
-> - Who is the creature that is obsessed with the Crown of Thorns? (Poloch)
-> - Who are the ones helping the party? (Thiala, Dante)
+> - What will party encounter in Darne household?
+> - What will party encounter beneath Caerwyn?
+
+> [!cite] Themes
+> Depression and suffering
+> Finity of life
+> Love
 
 > [!info]- Timeline
 > - 1000 years ago:
@@ -56,36 +59,62 @@
 > 	- *1st portent*: Infect and imprison the Hanged Man. Contact and gather the like-minded Children of Death. Destabilize the Domain of Death. Incite rebel Lightkeepers to hoard souls.
 > 	- *2nd portent*: Break Hanged Man's mind and convince him to break the Throne of Bones.
 > 	- *3rd portent*: The Hanged Man becomes the father he was meant to be and the Domain of Death is shattered. The vacuum needs to be filled and the war between the gods commences.
-> - **Crown of Thorns**
-> 	- ???
-> 	- can manipulate individuals who are just plainly aware of it's existence
-> 	- can observe nearly anything
-> 
 
 > [!info]- Important NPCs and parties
-> - **Jean-Pierre Lucrece**
+>  - :LiCrown: **Crown of Thorns**
+> 	- *Goal*: Powerful artifact originated in the Dreamlands, born out of suffering and grief, which wants to lessen suffering of the wearer at all cost but causes extreme pain.
+> 	 - *Notes*: Can manipulate individuals who are just plainly aware of it's existence. Drawn to the suffering and grieving.
+> - :LiPrinter: **Jean-Pierre Lucrece**
 > 	- *Goal*: Collect exotic specimen from across the world. Maer failed him when they promised him a dragon, now he tries to find other means.
-> - **Poloch**
-> 	- *Goal*: Retrieve the Crown of Thorns. First he has to defeat the Larva where adventurers can be of help.
-> 	- *Notes*: Was one of PP's students?
-> - **Delilah and the Sect of Alchemists**
-> 	- *Goal*: Wishes for affection and reverence, spreads the Sect of Alchemists
-> 	- *Notes*: Has Mark of the Fool
-> - **Lagakh the Stonemason**
+> - :LiFlaskConical: **Delilah and the Sect of Alchemists**
+> 	- *Goal*: Wishes for affection and reverence, spreads the Sect of Alchemists, large influence in Dreamlands
+> 	- *Notes*: Has Mark of the Fool, might encounter Phoebe. She has little interest in her but knows her value.
+> - :LiStone: **Lagakh the Stonemason**
 > 	- *Goal*: Tries to find out who the body on his back is, Vigil offered anwer
-> - **Šemazz and the Cult of Xolotl**
+> - :LiBird: **Šemazz and the Cult of Xolotl**
 > 	- *Goal*: Stop the Balam's Iscalia and create new Maer without the influence of Dragons.
-> -  **Nahl, the Scholar**
->	- *Goal*: Interested in Maer/Delilah/Butterfly/party
-> - **Morgana, the Hag**
+> - :LiBook: **Nahl, the Scholar**
+>	- *Goal*: Interested in Maer/Delilah/Butterfly/party/Marked/Phoebe
+> - :LiCircleQuestionMark: **Morgana, the Hag**
 >	- *Goal*: Knows the truth. Tries to manipulate, cast doubt and weaken Ehaageris, Seer and Abaddon to destroy domain of Death and gain advantage in upcoming struggle.
-> - **Sharbat, the Witch in Violet**
-> 	- *Goal*: Allied/manipulated by the Crown of Thorns.
-> 	- *Notes*: Has Mark of the Fool.
+> - :LiWand: **Sharbat, the Witch in Violet**
+> 	- *Goal*: Allied/manipulated by the Crown of Thorns. Wants what at the bottom of the Soulwell, she witnessed it when Summit fell. Wants to ring the bell to find out why were we created. Hates the unknown.
+> 	- *Notes*: Has Mark of the Fool. Might be interested in Phoebe.
+> - :LiMirrorRectangular: **Azathoth, the Voidworm**
+> 	- *Goal*: Wants to survive the Awakening, needs to escape and find the artifact
+> 	- *Notes*: Used to serve the Angels, defeated and chained by Nahl. Darne failed to provide a body, life crystal was not enough. Wants a body and knows that Alchemists can provide. Nahl provides him a temp avatar - chained old mirror trader. Might be interested in Phoebe. Will try to manipulate party against Nahl.
+> - :LiDroplet: **[[De Shattenhaft]]**
+> 	- *Goal*: Wants to redeem himself and die. Opposes Delilah.
+> 	- *Notes*: Designed procedure to prolong life. Transferred conciousness to his heir. Defeated by Garrim Steinngard.
+> - :LiUniversity: **Thiala Duskstar**
+> 	- *Goal*: Cure herself of Black Sepsis. Documents all symptoms and happenings. Has help of Azra Taher
+> - :LiSword: **Dante**
+> 	- *Goal*: Hunts Marked ones, paid for each head.
+> 	- *Notes*: Focused on Delilah, has suspicions about Sharbat.
+> - :LiBell: **The Bellringer and the Angelic Choir**
+> 	- *Notes*: Corpse of a gigantic humanoid with its hands on a large bell. Ringing the bell wakes up Angels around the World. The humanoid is surrounded by the souls of the dead to stay asleep. Revealing his existence might 
+> - :LiHeartCrack: **Poloch**
+> 	- *Goal*: Reaquire the Crown of Thorns, a gift from his long gone husband. First he has to defeat the Larva where adventurers can be of help.
+> 	- *Notes*: His husband was close to dying and did not want his dearest to suffer after his departue. The immense wish manifested a Crown of Thorns in the Dreamlands. The Crown of Thorns relieves the mental suffering but also causes the same immense pain its creator felt.
+> 	  Was one of PP's students?
+> - :LiRecycle: **Léto**
+> 	- *Goal*: Come into existence via Zverina as a god of nature and natural cycle.
+> - :LiHeart: **Phoebe de Veneris**
+> 	- *Goal*: Suffers from Dream Fever, has blood of Angels in her veins - wants to control it.
+> 	- *Notes*: Blood of Angels allows her to 'percieve' the true form of Angels and communicate with them. Veyric's love can reach her and help.
+> - :LiAngry: **Nivarra de Veneris**
+> 	- *Goal*: Find Phoebe and get revenge at all cost.
+> 	- *Notes*: Knows about Phoebe's circumstances. Being one step ahead she is looking for anyone who might be interested.
+> - :LiBrush: **Nimiriad, the Blood Painter**
+> 	- *Goal*: Paint the most beautiful piece of art. From blood. Ideally from the blood of a god.
+> 	- *Notes*: Allied with Nivarra, he has faith in her.
+> - :LiChessBishop: **Brother Bishop**
+> 	- *Goal*: Find out what happens when God of Death dies. Will the very fundamentals of the world change?
+> 	- *Notes*: Alchemist.
 
 > [!question]+ Investigation secrets and clues
 > - Excommunication of Commander was not the first in the history of the House - Cardinal-Brother and Stonemason were both excommunicated.
-> - Former Stonemason was excommunicated after he fell in love with one of the statues.
+> - Former Stonemason was excommunicated after he fell in love with one of the statues - Delilah.
 > - Fallen Children of Death (Black Angels/False Apostles) are on the move, seeking revenge.
 > - Remnants of the Maer civilization is willing to do anything to bring their fallen back to life in a plan called Balam's Iskalia (Balam's Ressurection).
 > - Crassus Arrkoth has a personal vendetta against the Hanged Man and seeks The Throne of Bones.
@@ -96,10 +125,14 @@
 
 ### **Garrim Steinngard** %% fold %%
 > [!missing]+ Garrim Steinngard - TO DO
-> - Who is the artist/priest of the hempen rope enamored by death?
-> - Grimwald Mirror?
-> - Azathoth?
+> - Brother Bishop?
+> - Who else possesses Grimwald Mirror?
+> - Azathoth vs Nahl?
 > - Black Sepsis?
+> - Anger issues?
+> - Theodemar?
+> - How come Dakhumin Bonebrew is possessed by Poloch?
+> - Where is Balmil?
 > - Glitnirdur?
 > 	- The jewell business in Glitnirdur is thriving, and trade is flourishing.
 
@@ -119,7 +152,10 @@
 > 	- The Hemp Abbey - where hemp is harvested
 > 	- Tower of Memories - stones where memories are written upon
 > 	- The Stone Graveyard - where statues of deceased are kept
-> 	- Soulwell - large abyss where souls are collected
+> 	- Soulwell - large abyss where souls are collected and dancing endlessly.
+> 		- frescoes of Creation
+> 		- frescoes of future events - Phoebe?
+> 		- the Bellringer guards a large bell that might wake up sleeping Angels, requires steady flow of souls
 > - notable NPCs:
 > 	- Lieutenant - Crassus' right hand
 > 	- A mage - Crassus' court mage, autistic with low self-esteem
@@ -142,6 +178,7 @@
 > 	- **Nesúď mŕtvych za ich životy uplynulé.**
 > 	- **Pamätaj na mŕtvych, aby ich životy neboli stratené druhýkrát.**
 > 	- **Tí, ktorých prijala Smrť, nesmú byť privolaní späť bezdôvodne.**
+> - motto: Omnia fui, nihil expedit
 > 
 
 > [!Info]- Black Sepsis
@@ -179,8 +216,8 @@
 > 	- previous Stonemason Lagakh fell in love with a wondrous elf Delilah, he traded secrets of the alchemy for her body.
 > 	- Delilah went on to inhabit flora and flesh mass in the shape of woman and found the Sect of Alchemists 
 > 	- Vigil wiped out Lagakhs memories and to this day he roams the world with Delilah's body in a coffin 
-> 	- known Alchemists: Thomas and Theodemar von Shattenhaft
-> - Miliars (memory enhancing)
+> 	- known Alchemists: Thomas and Theodemar von Shattenhaft, Brother Bishop
+> - Mercurists (memory enhancing)
 > 	- causes mind enhancements, spiritual ascendance, prophetical abilities, aggressive growth of neural system and eventual rapture of mind from body 
 > 	- not widely spread
 
@@ -216,14 +253,15 @@
 > Teraz si bol povolaný do Korza, mesta známeho svojimi nádhernými plážami a sídlom industriálnych tlačiarní novín Ellyrijský Herald. V meste sa stretneš so Zverinou a tvojim informátorom Balmilom, ktorý hlásil pokrok vo svojom vyšetrovaní.
 
 > [!question]- Garrim Steinngard - Secrets
+> - His parents and brother are still lingering in the Dreamlands and might confront him and his ways along with his past self.
 
 ### **Stará Zverina** %% fold %%
-
 > [!missing]+ Stará Zverina - TO DO
 > - How will Léto's influence appear?
-> - How is Phoebe impacted by her heritage?
-> 	- Veyric's love for his friends and family left a connection between him and Phoebe???
-> - Where is Nivara and what is she planning?
+> - How can Phoebe control the Dream Fever and her Angelic blood?
+> - How will Phoebe meet Sherbat?
+> - How will she meet the Blood Painter?
+> - Why will she join the adventure?
 
 > [!Done]- Zverina - Quests
 > **Rodinné dedičstvo**
@@ -257,10 +295,11 @@
 > - One of Šemazz's cult betrayed them for their own goals (for the sake of Sect of Alchemists)
 > 
 > *Phoebe's antics*
-> - One of Alchemists might show interest in Phoebe and Zverina during one of Phoebe's little adventures.
+> - One of Alchemists/Sharbat might show interest in Phoebe and Zverina during one of Phoebe's little adventures.
 > 
 > *Léto*
 > - Zverina is being involuntarily possesed by a god - Léto. He is a god of cycle, rebirth and natural order. Zverina has multiple options how to resolve this situation: "change her ways", "give up any connection to magic", "sever connection using ritual" or "accept it".
+> - Mercurists prophetized his coming, Zverina might be recognized as a vessel.
 
 ### **Porcelanová pani (Farfor)** %% fold %%
 > [!missing]+ Porcelánová pani - TO DO
@@ -285,12 +324,12 @@
 > 	- 
 > - Info o Vojvodovi z Redguardu?
 > 	- once one of 12 Voreth's faithful
-> 	- after they fell (by the hand of Vergil), he absorbed his brothers and became Vojvod
+> 	- after they fell (by the hand of Vergil), he absorbed his brothers and became the Duke
 > - How is a Grimwald Mirror connected to the Darne House?
 > 	- A member of Darne family, whose name was removed from records, tried Grimwald Mirror to replicate success of Salvatore.
 > 	- A broken Grimwald Mirror can be found in the family household along with old journals detailing his experience and eventual madness from Azathoth pervading his brain.
-> 	- He ventures to Summit gather a 2 Life Crystals and offers them to Azathoth.
-> 	- Azathoth rewards him with 
+> 	- He ventures to Summit gather a 2 Life Crystals, Azathoth tries to inhabit one but breaks it in process
+> 	- Azathoth rewards him with ???
 
 > [!Done]- Porcelanová pani - Quests
 > Vďaka udalostiam posledného dňa si sa ponorila do svojich spomienok. Vo svojom paláci si sa usadila na pohovku, otvorila svoje víno z ľuľkovca a za svetla lazúrových lámp si oprášila staré obrazy, ktorých vek ti splýva do šmuhy, ktorá sa rozpína od dôb, keď ťa vyhnal Theodor Darnè, až po tvoje svedectvo počiatku konca Ehaagerisa, známeho ako Obesenec. 

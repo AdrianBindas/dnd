@@ -5,7 +5,6 @@ description:
 tags:
 date: 2025-07-29
 ---
-
 In a place where technology and arcane intertwine, where gods meddle in the affairs of mortals, where nations rise and fall and far-away lands are discovered, your adventures take place.
 
 The known world is composed of two continents - Orynthia on the east and Vesper on the west. Both continents are populated by a myriad of species - some are more Tolkien-esque (many times with a twist), others are popular hybrids of humans and animals while the rest is exotic and outlandish.
@@ -21,8 +20,9 @@ It is now, that you shall take charge of your destiny and shape the world to you
 
 ## Quick reference
 
-- [[Countries of the World]] — countries and major political entities
+- [[Deities and Spirits]] — deities, spirits, and divine powers
+- [[Dictionary of terms]] — recurring ideas, forces, artifacts, and institutions
+- [[Characters and Organizations]] — important people and organizations
 - [[Location and places]] — continents, cities, settlements, and locations
-- [[Dictionary]] — recurring ideas, forces, artifacts, and institutions
-- [[NPCs registry]] — important people and beings
-- [[Historical Annals]] — historical and recent events
+- [[Countries of the World]] — countries and major political entities
+- [[Historical annals]] — historical and recent events
