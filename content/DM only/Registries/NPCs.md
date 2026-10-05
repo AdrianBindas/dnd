@@ -137,7 +137,6 @@ Sera Voss is an artificer who designs and builds specialized prostheses in Al'Za
 Phoebe is a young girl connected to the de Venaris family and raised under Zverina's protection. Her unusual dreams, fascination with stars, and uncertain heritage make her important to several family and divine mysteries.
 
 ### Rajaa
-
 Rajaa is an enslaved person whose attempted escape and knowledge of the underground routes become part of the Al'Zafira investigation. Her situation exposes the relationship between Kharaki commerce, government agents, and disposable witnesses.
 
 ### Akitha

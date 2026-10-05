@@ -1,131 +1,26 @@
 .map-viewer {
-  --map-viewer-border: var(--lightgray);
-  --map-viewer-surface: var(--light);
-  --map-viewer-text: var(--darkgray);
-  margin: 1.5rem 0;
   width: 100%;
-}
-
-.map-viewer-toolbar {
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  min-height: 2.5rem;
-  padding: 0.45rem 0.6rem;
-  color: var(--map-viewer-text);
-  background: var(--map-viewer-surface);
-  border: 1px solid var(--map-viewer-border);
-  border-bottom: 0;
-  border-radius: 0.4rem 0.4rem 0 0;
-}
-
-.map-viewer-title {
-  font-weight: 600;
-}
-
-.map-viewer-spacer {
-  flex: 1;
-}
-
-.map-viewer-button,
-.map-viewer-open {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2rem;
-  min-height: 2rem;
-  padding: 0.25rem 0.55rem;
-  color: var(--map-viewer-text);
-  background: transparent;
-  border: 1px solid var(--map-viewer-border);
-  border-radius: 0.25rem;
-  font: inherit;
-  line-height: 1;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.map-viewer-button:hover,
-.map-viewer-open:hover {
-  background: var(--highlight);
-  border-color: var(--secondary);
-}
-
-.map-viewer-reset {
-  min-width: 3.8rem;
-}
-
-.map-viewer-viewport {
-  position: relative;
   height: min(75vh, 900px);
   min-height: 22rem;
+  margin: 1.5rem 0;
   overflow: hidden;
   background: var(--lightgray);
-  border: 1px solid var(--map-viewer-border);
+  border: 1px solid var(--lightgray);
+  border-radius: 0.4rem;
   touch-action: none;
-  cursor: grab;
-  outline: none;
-}
-
-.map-viewer-viewport:focus-visible {
-  box-shadow: inset 0 0 0 2px var(--secondary);
-}
-
-.map-viewer-viewport.is-dragging {
-  cursor: grabbing;
-}
-
-.map-viewer-stage {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform-origin: center center;
-  will-change: transform;
 }
 
 .map-viewer-image {
   display: block;
+  width: 100%;
+  height: auto;
   max-width: none;
   user-select: none;
   -webkit-user-drag: none;
 }
 
-.map-viewer-loading {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  color: var(--map-viewer-text);
-  transform: translate(-50%, -50%);
-}
-
-.map-viewer-error {
-  color: var(--secondary);
-}
-
-.map-viewer-help {
-  padding: 0.45rem 0.6rem;
-  color: var(--gray);
-  font-size: 0.85rem;
-  text-align: center;
-  border: 1px solid var(--map-viewer-border);
-  border-top: 0;
-  border-radius: 0 0 0.4rem 0.4rem;
-}
-
 @media all and (max-width: 600px) {
-  .map-viewer-toolbar {
-    flex-wrap: wrap;
-  }
-
-  .map-viewer-title {
-    width: 100%;
-  }
-
-  .map-viewer-spacer {
-    display: none;
-  }
-
-  .map-viewer-viewport {
+  .map-viewer {
     height: 65vh;
     min-height: 18rem;
   }
