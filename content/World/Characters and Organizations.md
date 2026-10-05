@@ -1,5 +1,5 @@
 ---
-title: NPCs registry
+title: Characters and Organizations
 publish: true
 description:
 tags:

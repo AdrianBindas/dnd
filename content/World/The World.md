@@ -1,5 +1,5 @@
 ---
-title: World
+title: The World
 publish: true
 description:
 tags:
@@ -20,9 +20,10 @@ It is now, that you shall take charge of your destiny and shape the world to you
 
 ## Quick reference
 
-- [[Deities and Spirits]] — deities, spirits, and divine powers
-- [[Dictionary of terms]] — recurring ideas, forces, artifacts, and institutions
-- [[Characters and Organizations]] — important people and organizations
-- [[Location and places]] — continents, cities, settlements, and locations
-- [[Countries of the World]] — countries and major political entities
-- [[Historical annals]] — historical and recent events
+- [[Characters and Organizations]] - important people and organizations
+- [[Deities and Spirits]] - deities, spirits, and divine powers
+- [[Dictionary of terms]] - recurring ideas, forces, artifacts, and institutions
+- [[Location and places]] - continents, cities, settlements, and locations
+- [[Countries of the World]] - countries and major political entities
+- [[Historical annals]] - historical and recent events
+- [[Languages of the World]] - tree of common languages

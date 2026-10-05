@@ -1,5 +1,5 @@
 ---
-title: Important events registry
+title: Historical annals
 publish: true
 description:
 tags:

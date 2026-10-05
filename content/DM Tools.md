@@ -1,9 +1,9 @@
 ---
-title: "DM Tools"
-publish: false
-description: 
-tags: 
-date: "2025-08-03"
+title: DM Tools
+publish: true
+description:
+tags:
+date: 2025-08-03
 ---
 # Random tables
 ## NPC tables

@@ -1,5 +1,5 @@
 ---
-title: Concepts registry
+title: Dictionary of terms
 publish: true
 description:
 tags:

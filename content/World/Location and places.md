@@ -1,5 +1,5 @@
 ---
-title: Places registry
+title: Location and places
 publish: true
 description:
 tags:

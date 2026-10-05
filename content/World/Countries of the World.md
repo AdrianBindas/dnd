@@ -1,5 +1,5 @@
 ---
-title: Countries registry
+title: Countries of the World
 publish: true
 description:
 tags:

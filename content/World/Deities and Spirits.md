@@ -1,8 +1,8 @@
 ---
-title: Gods and religion
+title: Deities and Spirits
 publish: true
-description: 
-tags: 
+description:
+tags:
 date: 2025-07-29
 ---
 ## Major Deities
