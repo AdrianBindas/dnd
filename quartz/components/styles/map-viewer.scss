@@ -1,27 +1,99 @@
 .map-viewer {
+  position: relative;
+
   width: 100%;
-  height: min(75vh, 900px);
-  min-height: 22rem;
+
   margin: 1.5rem 0;
+
   overflow: hidden;
+
   background: var(--lightgray);
-  border: 1px solid var(--lightgray);
+
   border-radius: 0.4rem;
+
   touch-action: none;
 }
 
 .map-viewer-image {
   display: block;
+
   width: 100%;
   height: auto;
+
   max-width: none;
+
+  margin: 0;
+  padding: 0;
+
   user-select: none;
   -webkit-user-drag: none;
 }
 
+.map-viewer-controls {
+  position: absolute;
+
+  top: 0.75rem;
+  right: 0.75rem;
+
+  z-index: 10;
+
+  display: flex;
+  gap: 0.35rem;
+}
+
+.map-viewer-button {
+  width: 2.25rem;
+  height: 2.25rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+
+  border: 1px solid var(--lightgray);
+  border-radius: 0.35rem;
+
+  background: var(--light);
+  color: var(--darkgray);
+
+  font-size: 1.25rem;
+  line-height: 1;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 6px rgb(0 0 0 / 15%);
+
+  transition:
+    background 0.15s ease,
+    transform 0.1s ease;
+}
+
+.map-viewer-button:hover {
+  background: var(--lightgray);
+}
+
+.map-viewer-button:active {
+  transform: scale(0.94);
+}
+
+.map-viewer-button:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
 @media all and (max-width: 600px) {
   .map-viewer {
-    height: 65vh;
-    min-height: 18rem;
+    margin: 1rem 0;
+  }
+
+  .map-viewer-controls {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+
+  .map-viewer-button {
+    width: 2.5rem;
+    height: 2.5rem;
   }
 }
