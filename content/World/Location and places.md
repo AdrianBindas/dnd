@@ -8,39 +8,22 @@ tags:
   - places
 date: 2026-09-24
 ---
-
-## Continents
-
+# Continents
 ### Orynthia
-
-Orynthia is the eastern continent and the center of the Arrkoth Empire's power. The party has traveled through its imperial cities, frontier territories, forests, and ancient ruins.
-
+Orynthia is the eastern continent and the center of the Arrkoth Empire's power.
 ### Vesper
-
-Vesper is the western continent across the high seas from Orynthia. The party knows it through Kharak, Al'Zafira, Vesperian travelers, and the wider political conflict surrounding the Labyrinth.
-
-## Shared campaign locations
-
-### The Grand City of Ellyria
-
-Ellyria is the capital of the Arrkoth Empire and the party's main starting point. Its palace, university, manufacturing, artisan, non-human, market, and riverside districts place arcane industry beside imperial poverty and political unrest.
-
+Vesper is the western continent across the high seas from Orynthia. The dominant power is the sprawling House of Kharak.
+# Orynthia
+## The Grand City of Ellyria
+Ellyria is the capital of the Arrkoth Empire and the starting place of all good adventures. Its palace, university, manufacturing, artisan, non-human, market, and riverside districts place arcane industry beside imperial poverty and political unrest.
 ### Door 78
-
-Door 78 is a discreet Ellyrian meeting place connected to tunnels, hidden doors, and an anti-magic lobby. Iskra used it to brief the party and provide resources for the investigation into Kane Keaton and the Syndicate.
-
+Door 78 is a discreet Ellyrian meeting place connected to tunnels, hidden doors, and an anti-magic lobby.
 ### Royal Railways
-
-The Royal Railways are Ellyria's large train station and engineering complex. The party used the Imperial railway to travel east and became involved in an operation involving Thiala's cargo, Lady Corvessa, and several competing factions.
-
+The Royal Railways are Ellyria's train station and engineering complex.
 ### The Sapphire Cask
-
-The Sapphire Cask is an Ellyrian noble tavern and gentleman's club built around a large sapphire cask of expensive baru. The party visited it while searching for Kane Keaton and negotiating access to the city's aristocratic networks.
-
-### Redguard Fortress
-
-The Redguard Fortress is the seat of the Duke and the center of the duchy's court, military, and festivals. The party used it as a base during the royal hunt and later witnessed the attack that exposed the scale of the Bloom threat.
-
+The Sapphire Cask is an Ellyrian noble tavern and gentleman's club built around a large sapphire cask of expensive baru. 
+## Redguard
+The Redguard Fortress is the seat of the Duke and the center of the duchy's court, military, and festivals. The region is currently on the brink of civil war between Imperials and Free Elves of Vendergard
 ### Highwater
 
 Highwater is a coastal port and aristocratic settlement connected to Redguard. The party investigated Aldric's estate there and followed evidence from its docks and private collections to Lord Dunhart's ship.

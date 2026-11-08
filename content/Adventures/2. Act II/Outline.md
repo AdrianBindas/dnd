@@ -70,7 +70,7 @@
 > 	- *Goal*: Wishes for affection and reverence, spreads the Sect of Alchemists, large influence in Dreamlands
 > 	- *Notes*: Has Mark of the Fool, might encounter Phoebe. She has little interest in her but knows her value.
 > - :LiStone: **Lagakh the Stonemason**
-> 	- *Goal*: Tries to find out who the body on his back is, Vigil offered anwer
+> 	- *Goal*: Tries to find out who the body on his back is, Vigil offered anwer.
 > - :LiBird: **Šemazz and the Cult of Xolotl**
 > 	- *Goal*: Stop the Balam's Iscalia and create new Maer without the influence of Dragons.
 > - :LiBook: **Nahl, the Scholar**
@@ -92,7 +92,7 @@
 > 	- *Goal*: Hunts Marked ones, paid for each head.
 > 	- *Notes*: Focused on Delilah, has suspicions about Sharbat.
 > - :LiBell: **The Bellringer and the Angelic Choir**
-> 	- *Notes*: Corpse of a gigantic humanoid with its hands on a large bell. Ringing the bell wakes up Angels around the World. The humanoid is surrounded by the souls of the dead to stay asleep. Revealing his existence might 
+> 	- *Notes*: Corpse of a gigantic humanoid with its hands on a large bell. Ringing the bell wakes up Angels around the World. The humanoid is surrounded by the souls of the dead to stay asleep. The souls are undergoing entropy and decay. Revealing his existence might 
 > - :LiHeartCrack: **Poloch**
 > 	- *Goal*: Reaquire the Crown of Thorns, a gift from his long gone husband. First he has to defeat the Larva where adventurers can be of help.
 > 	- *Notes*: His husband was close to dying and did not want his dearest to suffer after his departue. The immense wish manifested a Crown of Thorns in the Dreamlands. The Crown of Thorns relieves the mental suffering but also causes the same immense pain its creator felt.
@@ -108,9 +108,16 @@
 > - :LiBrush: **Nimiriad, the Blood Painter**
 > 	- *Goal*: Paint the most beautiful piece of art. From blood. Ideally from the blood of a god.
 > 	- *Notes*: Allied with Nivarra, he has faith in her.
-> - :LiChessBishop: **Brother Bishop**
+> - :LiMicroscope: **Ezekhiel, The Curious**
 > 	- *Goal*: Find out what happens when God of Death dies. Will the very fundamentals of the world change?
-> 	- *Notes*: Alchemist.
+> 	- *Notes*: Priest of the Hempen Rope. Sulphurist. Marked.
+> - :LiChessBishop: **Cardinal-Brother**
+> 	- *Goal*: Take the Throne of Bones for himself. Study the mysteries of souls.
+> - :LiChessQueen: **Cardinal-Sister**
+> 	- *Goal*: Take the Throne of Bones for herself. Collect evidence on Brother.
+> - :LiEarth: **Cirdanas**
+> 	- *Goal*: Find out what happened to the Faraways.
+> 	- *Notes*: Infiltrated the Hell Machine effort.
 
 > [!question]+ Investigation secrets and clues
 > - Excommunication of Commander was not the first in the history of the House - Cardinal-Brother and Stonemason were both excommunicated.
@@ -216,7 +223,7 @@
 > 	- previous Stonemason Lagakh fell in love with a wondrous elf Delilah, he traded secrets of the alchemy for her body.
 > 	- Delilah went on to inhabit flora and flesh mass in the shape of woman and found the Sect of Alchemists 
 > 	- Vigil wiped out Lagakhs memories and to this day he roams the world with Delilah's body in a coffin 
-> 	- known Alchemists: Thomas and Theodemar von Shattenhaft, Brother Bishop
+> 	- known Alchemists: Thomas and Theodemar von Shattenhaft
 > - Mercurists (memory enhancing)
 > 	- causes mind enhancements, spiritual ascendance, prophetical abilities, aggressive growth of neural system and eventual rapture of mind from body 
 > 	- not widely spread
@@ -314,9 +321,10 @@
 > - sposob ako ju mozu Korzicania kontaktovat cez obrazy
 > 	- hand-painted portraits with golden frame (500 gp) and colors made out of expensive herbs
 > - Co je s Darne?
-> 	- Edmur Darne - current head
+> 	- Edmur Junior Darne - current head
 > 	- Joanne Darne - Edmur's wife
 > 	- Verona Darne - Edmur's sister - got invitation from Virgil to join the creation of Hell Machine
+> 	- Edmur Senior Darne - recently deceased
 > - Pozna nejake dieta smrti?
 > 	- Seen one die - Ehaageris took it's life right in front of her eyes.
 > - Co vie o de Veneris magii?
@@ -328,8 +336,8 @@
 > - How is a Grimwald Mirror connected to the Darne House?
 > 	- A member of Darne family, whose name was removed from records, tried Grimwald Mirror to replicate success of Salvatore.
 > 	- A broken Grimwald Mirror can be found in the family household along with old journals detailing his experience and eventual madness from Azathoth pervading his brain.
-> 	- He ventures to Summit gather a 2 Life Crystals, Azathoth tries to inhabit one but breaks it in process
-> 	- Azathoth rewards him with ???
+> 	- Via Delilah he ventures to Summit and gathers 3 Life Crystals, Azathoth tries to inhabit one but breaks it in process
+> 	- Azathoth rewards him with a secret about Salvatore that breaks his mind and nearly brings him to madness.
 
 > [!Done]- Porcelanová pani - Quests
 > Vďaka udalostiam posledného dňa si sa ponorila do svojich spomienok. Vo svojom paláci si sa usadila na pohovku, otvorila svoje víno z ľuľkovca a za svetla lazúrových lámp si oprášila staré obrazy, ktorých vek ti splýva do šmuhy, ktorá sa rozpína od dôb, keď ťa vyhnal Theodor Darnè, až po tvoje svedectvo počiatku konca Ehaagerisa, známeho ako Obesenec. 

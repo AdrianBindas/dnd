@@ -52,7 +52,7 @@ Aksum
 ##### NPCs
 **Orynthian**
 Elfrith
-Brill
+~~Brill~~
 ~~Nimiriad~~
 ~~D'Armenty~~
 Morgonai
@@ -156,7 +156,7 @@ Vrogak
 Bugak
 Rulfim
 Bulfim
-Lagakh
+~~Lagakh~~
 **Abnormal**
 Crux
 Minelauva
@@ -170,6 +170,7 @@ Ay-Doth
 D'iutlin
 Vraghest
 ~~Xolotl \[ˈʃolot͡ɬ\]~~
+Breztush
 ##### Items
 Shard of the Drowned Star
 The Grief of Ten Thousand Mouths
@@ -183,10 +184,11 @@ The Burning Throne
 The Obsidian Throne
 Exalted/Glorious Horror
 Eldari
+Zephyr
 ##### Akkadian
 tamḫūru ilūtu - glorious horror
 šarrūtu rūssu - exalted terror
-ṣu-ra-at num-mi-ri - form of a beast
+ṣu-ra-at num-mi-ri - form of a beast - Suraat Numiri
 iluti sinništi - cosmic sister
 šeru - beast
 salmu - form

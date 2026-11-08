@@ -1,24 +1,24 @@
-## **Characters**
-**Garrim Steinngard** - priest of the Hemp Rope cleansing the Domain of Death
+## **Characters** (perc., ins., inv.)
+**Garrim Steinngard** - priest of the Hemp Rope cleansing the Domain of Death (14/19/10)
 - losing temper
-**Stará Zverina** - conscientious healer forcefully pulled into godhood
+**Stará Zverina** - conscientious healer forcefully pulled into godhood ()
 - aristocratic connections
-**Porcelain Lady** - sophisticated automaton wizard with a sense for art and sorcery
+- ascendancy disease symptoms
+**Porcelain Lady** - sophisticated automaton wizard with a sense for art and sorcery ()
+- lost memory - Faceless Sorcerer, Yu-Kib, Maer, Sharbat...
+- heretic, needs to learn her place
 ## **Scenes**
-- Cutscene - Crassus Arrkoth visits the Court of Death.
-- Party pays visit to the Old Press. The gargoyles are using the machines to print parts of the Hell Machines. Green R'aulek Maw is latched on the ceiling of the building. R'auleks are processing the 6-legged antelope. Almiraj is hiding from the R'auleks, needs saving. Staircase leading below is torn down. An office overseeing the space contains blueprints and general outline of the Hell Machine. 
-- Party investigates machinery, imprisonment or scientific notes, reveals that a Maer scientist Yu-Kib (effigy of life essence) was an important source of information on R'auleks.
+- ~~Cutscene - Crassus Arrkoth visits the Court of Death.~~
+- Party pays visit to the Old Press and meets Brill Featherhead. The gargoyles are using the machines to print parts of the Hell Machines. Gargoyles are made perfectly linking to stonemason. Green R'aulek Maw is latched on the ceiling of the building. R'auleks are processing the 6-legged antelope. Almiraj is hiding from the R'auleks, needs saving. Staircase leading below is torn down. An office overseeing the space contains blueprints and general outline of the Hell Machine. Three priests of Abaddon are overseeing the process.
+- Zverina might get her symptoms - signalizing something is wrong.
+- Party investigates catacombs, reveals that a Maer scientist Yu-Kib (effigy of life essence) was an important source of information on R'auleks. Contains Yu-Kib's journals - Mear supplied baby R'auleks; JPL stored them; Yu-Kib researched their abilities, researched how to create Prima Forma. Black Maw is butchered and Prima Forma is incomplete. Tunnels store machinery for studying R'auleks; terrarium that was destroyed by a dead man's switch. White Maw is the largest. A zealous paladin of Abaddon Ragmus might rush inside and get himself killed unless rescued (has globular helmet he found from some Sulphurist?)
 - The citizens of Korso show reverence to Porcelain Lady but it clashes with father Maxim and his pupils.
 - Dakhumin appears in Garrim's dreams or Garrim contacts the House of Death directly. It is revealed he is in induced coma after prolonged hallucinations and aggression. He seemed possesed.
 ## **Secrets and clues**
-- JPL's rival?
-- JPL writer is fed up by the censorship?
-- Maer will notice Zverina's mace?
-- Zverina will notice changes?
-
 - The White R'aulek Maw with Porcelain Lady's face processes food deep below the mansion. 
 - The Green R'aulek Maw with Jean's face nests in the Old Press.
 - The Black R'aulek Queen with Alicia's face is butchered under the mansion, fused with cloudy life crystal.
+- Porcelain Lady set up a dead man's switch.
 - Father Maxim thrown fisherman Rufin into servitude after Rufin openly spoke against him during sermon.
 - Below the church is a device placed there by Maxim and Church that redirects the townsfolk prayers to Crassus.
 - The most important scientist is a Maer Yu-Kib, whose journals contain information on R'auleks.
@@ -47,19 +47,24 @@
 - **Fisherman's hut** home of fisherman's wife Alžbeta
 - **Grotto** (grota), shrine of a White Witch, place of battle
 ## **NPCs**
-Jean-Pierre Lucrece - suave and enterpreneurish but hides anxiety and fear.
-Alicia Duret - Lucrece's mistress, scared and abused.
-[[Father Maxim]]
-Informant Balmil
-Innkeep Albert
-Innkeep's daughter
-Shagar (resides in Grotto, faithful to Porcelain Lady but dismissive at the first glance)
-Fisherman Rufin and Alžbeta
-Maer representatives
-- Brother Falcon (sokol)
-- Sister Viper (zmija)
-- Brother Mountain Lion (lev)
-Abaddon - symbol is mirror
+- Jean-Pierre Lucrece - suave and enterpreneurish but hides anxiety and fear.
+- Alicia Duret - Lucrece's mistress, scared and abused.
+- [[Father Maxim]]
+- Informant Balmil
+- Innkeep Albert
+- Innkeep's daughter Malefica
+- Shagar (resides in Grotto, faithful to Porcelain Lady but dismissive at the first glance)
+- Fisherman Rufin and Alžbeta
+- Maer representatives
+	- Brother Falcon (sokol)
+	- Sister Viper (zmija)
+	- Brother Mountain Lion (lev)
+- Abaddon - symbol is mirror
+- Brill Featherhead
+	- Easily enraged, bald gnome.
+	- Used to work for JPL.
+	- Left because of censorship (war is coming, pogroms, Teva Arrkoth is missing for a few months)
+	- Came back to uncover what is going on.
 ## **Monster statblocks**
 
 ## **Loot**

@@ -23,3 +23,13 @@ date: 2026-09-08
 - Grimwald Mirrors were mentioned 350 years ago by Darne.
 	- Maybe wanted Mirror to replicate the success of Salvatore?
 	- Maybe hired by Crassus Arrkoth? Virgil?
+- Feedback:
+	- Cutscenes are great
+	- Need stronger pull/aim/objective
+		- Majordomus for now, which NPC next? Ezekhiel/Virgil?
+- Next cutscenes:
+	- Akith meets his sister.
+	- Duke of Redguard is ressurected.
+	- Kharak Council is stalled.
+- Farfor - favourite flowers are chrysanthemums
+- Find lower jaw of an important corpse who has information.

@@ -13,3 +13,8 @@ date: "2026-10-05"
 - Biotech based faction - flesh is weak, mechanical augmentations, using Purple Crystals
 - La Strage - massacre in Italian
 - Optogenetics - shining light can manipulate and activate neurons.
+- Requiem for My Harlequin guy with white painted face. Maybe something like Rammstein frontman? Harlequin archetypes? Straga Arlechino?
+- https://www.reddit.com/r/Lovecraft/comments/ycnbo3/hierarchy_of_the_lovecraftian_entities/
+- https://www.reddit.com/r/Lovecraft/comments/mixo4/words_every_lovecraft_fan_needs_to_know_to/
+- A cult-empire that worships the death of the sun, led by a blind prophet-king
+- One Child of Death turned herself to weapon for the cause
