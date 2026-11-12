@@ -1,18 +1,20 @@
-> [!important] Important questions
-> - What will party encounter in Darne household?
-> - What will party encounter beneath Caerwyn?
+> [!question] Important questions
+> - How does the afterlife work?
+> - What is the Crown of Thorns?
+> - What are elements relevant to the attack?
+> - What's next?
+> 	- Ehaageris will be rescued but poisoned. Unable and unwilling to take throne.
+> 	- The Domain is poisoned and crumbling. Ehaageris can be healed (for example) using the Bell.
+> 	- Allies of the Domain prepare for attack against the Crown of Thorns in the Dreamlands.
 
 > [!cite] Themes
-> Depression and suffering
-> Finity of life
 > Love
+> Finity of life
+> Depression and suffering
 
 > [!info]- Timeline
 > - 1000 years ago:
 > 	- The Cores are created, all of them distributed through out the continent:
-> - 400 years ago:
-> 	- Porcelain Lady is brought to the brink of death and meets Stonemason, who falls in love with her. While he promises her a way out, unbeknownst to her, she is copied many times into the stone.
-> 	- The Hanged Man puts an end to this, gifts her the scythe as a reperation and excommunicates the Stonemason.
 > - 100 years ago:
 > 	- Maer promises dragon to a JPL if they revive [[R'auleks]] and gather life crystals. Maer opens gate to Abaddon's domain and retrieves [[R'auleks]] with the help of Faceless sorcerer.
 > 	- Porcelain Lady is hired to tend to [[R'auleks]] by the Maer and JPL. She overcomes challenges and makes the terrarium habitable for them. She foresees the betrayal and leaves dead man switch. She is betrayed and bested by a Faceless sorcerer, her memories wiped and she is put in stasis.
@@ -107,10 +109,10 @@
 > 	- *Notes*: Knows about Phoebe's circumstances. Being one step ahead she is looking for anyone who might be interested.
 > - :LiBrush: **Nimiriad, the Blood Painter**
 > 	- *Goal*: Paint the most beautiful piece of art. From blood. Ideally from the blood of a god.
-> 	- *Notes*: Allied with Nivarra, he has faith in her.
+> 	- *Notes*: Allied with Nivarra, he has faith in her. Alchemist on a more theoretical side.
 > - :LiMicroscope: **Ezekhiel, The Curious**
 > 	- *Goal*: Find out what happens when God of Death dies. Will the very fundamentals of the world change?
-> 	- *Notes*: Priest of the Hempen Rope. Sulphurist. Marked.
+> 	- *Notes*: Priest of the Hempen Rope. Sulphurist.
 > - :LiChessBishop: **Cardinal-Brother**
 > 	- *Goal*: Take the Throne of Bones for himself. Study the mysteries of souls.
 > - :LiChessQueen: **Cardinal-Sister**
@@ -119,20 +121,18 @@
 > 	- *Goal*: Find out what happened to the Faraways.
 > 	- *Notes*: Infiltrated the Hell Machine effort.
 
-> [!question]+ Investigation secrets and clues
+> [!abstract]- Investigation secrets and clues
 > - Excommunication of Commander was not the first in the history of the House - Cardinal-Brother and Stonemason were both excommunicated.
 > - Former Stonemason was excommunicated after he fell in love with one of the statues - Delilah.
 > - Fallen Children of Death (Black Angels/False Apostles) are on the move, seeking revenge.
 > - Remnants of the Maer civilization is willing to do anything to bring their fallen back to life in a plan called Balam's Iskalia (Balam's Ressurection).
 > - Crassus Arrkoth has a personal vendetta against the Hanged Man and seeks The Throne of Bones.
-> - A certain kind of synthetic humans emerged. Is it another way how to cheat death?
 > - The Hanged Man apparently gathered his memories from the Majordomus before he left. Majordomus is aware of this but stays silent afraid that the Court might turn against the Hanged Man
 > - At the command of Virgil d'Armety, the gargoyles, each containing a shard of the Broken Core, use JPL printing press to cast pieces of the Hell Machine.
 > - The Butterfly offered help to Crassus Arrkoth but he refused.
 
 ### **Garrim Steinngard** %% fold %%
 > [!missing]+ Garrim Steinngard - TO DO
-> - Brother Bishop?
 > - Who else possesses Grimwald Mirror?
 > - Azathoth vs Nahl?
 > - Black Sepsis?
@@ -359,11 +359,21 @@
 > - Farfor also lost memories of her meetings with Sharbat, the Witch in Violet.
 
 > [!info]- The Cores
-> Salvatore Dare made multiple cores:
-> - Broken Core (now split into shards in gargoyles and such)
-> - Little Core (did not reach full growth, discarded)
-> - Core 'Melissa' (emotions, imitation of life in Porcelain Lady)
-> - Core 'Sigmund' (aimed to be a protector, reached consciousness and left disgusted)
-> - Core 'Móros' (aimed to be a weapon, behavioral restraints were broken, thought to be destroyed)
-> - Core 'Simulacrum' (Salvatore's personality)
-> - Core 'Avantgarde' (aimed to be a pseudogod, foretelling of changes, fate unknown)
+> - Salvatore Dare made multiple cores (and revelations):
+> - **Broken Core** (now split into shards in gargoyles and such)
+> - The correct words for Life were discovered.
+> - **Little Core** (did not reach full growth, discarded)
+> - Emotions were supplied during growth. ~~The Melissa core resided in a porcelain doll belonging to a small Melissa.~~
+> - Core '**Melissa**' (emotions, imitation of life in Porcelain Lady)
+> - Forced to participate in war technology development, learned to manipulate words, fell into depression, Farfor left.
+> - Core '**Móros**' (aimed to be a weapon, behavioral restraints were broken, thought to be destroyed)
+> - Terrors of war made him obsessed with creating perfect being, on emotional, intelligent, physical plane... Devoid of all conflict, pain, suffering.
+> - Core '**Sigmund**' (aimed to be a protector, reached consciousness and left disgusted)
+> - Sigmund was flawed - perfectly empathetical being can not be devoid of pain and suffering. 
+> - Could not figure out the word of god/ascendancy, made a copy of himself to prolong the efforts. Mercurists helped copy memory.
+> - Core '**Simulacrum**' (Salvatore's personality)
+> - Discovered the word for Angel.
+> - Core '**Avantgarde**' (aimed to be a pseudogod/anti-god, foretelling of changes, fate unknown)
+> - Avantgarde was a perfect being. Salvatore realized humans are already perfect, even though humanity is not.
+> - Left message for Farfor. Message should lead her to the secrets of words.
+> Each core is made of a single Prima Materia, which serves as an empty sheet. Salvatore's linguistic study revealed correct words (in Angelic/Akkadian) needed to create life out of those. Materia is to be supplied with emotions during the growth stage. 

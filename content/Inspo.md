@@ -18,3 +18,5 @@ date: "2026-10-05"
 - https://www.reddit.com/r/Lovecraft/comments/mixo4/words_every_lovecraft_fan_needs_to_know_to/
 - A cult-empire that worships the death of the sun, led by a blind prophet-king
 - One Child of Death turned herself to weapon for the cause
+- Find lower jaw of an important corpse who has information.
+- Bad Batch of automatons? Each with a specific quirk.

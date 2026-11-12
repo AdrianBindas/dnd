@@ -9,7 +9,12 @@
 - lost memory - Faceless Sorcerer, Yu-Kib, Maer, Sharbat...
 - heretic, needs to learn her place
 ## Scenes
-- Farfor is banished into the Domain of ...
+- The party along with Ezekhiel and Maxim is in ossuary. The space is split in two with Force Wall, Farfor is banished. Ezekhiel and Garrim are near sarcophages, refusing to open them.
+- Farfor is banished into the Domain of Nahl - rocks and pieces of debris floating through the void. Friendly, expresses interest in the party's future.
+	- Can't stand the stench, but oh so interesting.
+	- Knowing yourself is the beginning of all wisdom.
+	- Your role in this play is much greater than you image. And the same goes for your little friends.
+	- Salvatore was a genius; in other universe he could have stood by my right hand.
 - Party joins up with Ezekhiel, deals with Maxim.
 - The party travels to a city and takes a magic transport to Caerwyn, where they visit a Darne household.
 	- E. Darne sen. died just last week, funeral was yesterday. He left ciphered notes on Salvatore's cores.
@@ -23,7 +28,6 @@
 - Sharbat might pay visit to Phoebe - noticies Farfor and Zverina.
 - Dakhumin appears in Garrim's dreams or Garrim contacts the House of Death directly. It is revealed he is in induced coma after prolonged hallucinations and aggression. He seemed possesed.
 ## Secrets and clues
-- Below the church is a device placed there by Maxim and Church that redirects the townsfolk prayers to Crassus.
 - The most important scientist is a Maer Yu-Kib (Porcelain Lady), whose journals contain information on R'auleks.
 - Before his sleep Dakhumin was speaking of crude but massive machines hidden underground beneath Caerwyn, walking statues, corridors covered by unicorns and broken glass overrun by beasts. A few faces were revealed to him in his dream, among them the face of Virgil d'Armenty. The dream ended with Dakhumin bound by barbed wire, squeezing and choking him.
 - Ezekhiel tortured and killed Balmil for information on R'auleks and Porcelain Lady; got caught by Abaddon's priests and thrown under Maxim's church. 

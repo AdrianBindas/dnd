@@ -12,5 +12,5 @@ date: 2026-09-23
 - When necromancers of Voreth rise, he gets ressurected as a thrall.
 - Fights back and wins his soul back, destroys the necromancer's army from within.
 - Earns the title of Commandant.
-- Nemesia reveals Ehaageris tried to ressurect his daughter.
+- Sharbat reveals Ehaageris tried to ressurect his daughter.
 - Virgil feels betrayed and turns sides to enact justice.

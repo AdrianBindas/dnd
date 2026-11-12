@@ -32,4 +32,3 @@ date: 2026-09-08
 	- Duke of Redguard is ressurected.
 	- Kharak Council is stalled.
 - Farfor - favourite flowers are chrysanthemums
-- Find lower jaw of an important corpse who has information.
